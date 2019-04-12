@@ -1,0 +1,15 @@
+[submodule "input/Midazolam-Model"]
+	path = input/Midazolam-Model
+	url = https://github.com/Open-Systems-Pharmacology/Midazolam-Model.git
+[submodule "input/Rifampicin-Model-Model"]
+	path = input/Rifampicin-Model-Model
+	url = https://github.com/Open-Systems-Pharmacology/Rifampicin-Model.git
+[submodule "input/Rifampicin-Midazolam-DDI"]
+	path = input/Rifampicin-Midazolam-DDI
+	url = https://github.com/Open-Systems-Pharmacology/Rifampicin-Midazolam-DDI.git
+[submodule "input/Itraconazole-Model-Model"]
+	path = input/Itraconazole-Model-Model
+	url = https://github.com/Open-Systems-Pharmacology/Itraconazole-Model.git
+[submodule "input/Itraconazole-Midazolam-DDI"]
+	path = input/Itraconazole-Midazolam-DDI
+	url = https://github.com/Open-Systems-Pharmacology/Itraconazole-Midazolam-DDI.git
