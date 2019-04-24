@@ -3,11 +3,11 @@
   "Projects": [
     {
       "Id": "Midazolam",
-      "Path": "Midazolam/Midazolam.json"
+      "Path": "../../Midazolam-Model/Midazolam.json"
     },
     {
       "Id": "Itraconazole",
-      "Path": "Itraconazole/Itraconazole.json",
+      "Path": "../../Itraconazole/Itraconazole-Model.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "Id": "Midazolam_Itraconazole_DDI",
-      "Path": "Midazolam_Itraconazole_DDI/Midazolam_Itraconazole_DDI.json",
+      "Id": "Itraconazole-Midazolam-DDI",
+      "Path": "../../Itraconazole-Midazolam-DDI/Itraconazole-Midazolam-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
@@ -54,9 +54,433 @@
           "Type": "Formulation",
           "Name": "Capsule fed",
           "Project": "Itraconazole"
+        },
+        {
+          "Type": "Formulation",
+          "Name": "Tablet (Dormicum)",
+          "Project": "Midazolam"
         }
       ],
-      "SimulationParameters": []
+      "SimulationParameters": [
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Ahonen 1995",
+            "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+            "DDI Control - Backmann 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Olkkola 1994",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "DDI Control - Olkkola 1996",
+            "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+            "DDI Control - Templeton 2010",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+            "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        }
+      ]
     }
   ],
   "ObservedDataSets": [
@@ -180,42 +604,32 @@
       {
         "SectionId": 1,
         "Project": "Midazolam",
-        "Simulation": "Mida iv 0.05 mgkg - Gorski 1998 - Whole blood"
+        "Simulation": "iv 0.001 mg (5 min)"
       },
       {
         "SectionId": 1,
         "Project": "Midazolam",
-        "Simulation": "Mida iv 0.15 mgkg - Heizmann 1983"
+        "Simulation": "iv 1 mg (5 min)"
       },
       {
         "SectionId": 1,
         "Project": "Midazolam",
-        "Simulation": "Mida iv 5 mg- Smith 1981"
+        "Simulation": "po 0.003 mg (solution)"
       },
       {
         "SectionId": 1,
         "Project": "Midazolam",
-        "Simulation": "Mida po 0.075 mgkg - Chung 2006"
+        "Simulation": "po 3 mg (solution)"
       },
       {
         "SectionId": 1,
         "Project": "Midazolam",
-        "Simulation": "Mida po 10 mg - Heizmann 1983"
-      },
-      {
-        "SectionId": 1,
-        "Project": "Midazolam",
-        "Simulation": "Mida po 10 mg - Smith 1981"
-      },
-      {
-        "SectionId": 1,
-        "Project": "Midazolam",
-        "Simulation": "Mida po 20 mg - Heizmann 1983"
+        "Simulation": "po 7.5 mg (tablet)"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "100 mg IV"
+        "Simulation": "100 mg IV SD"
       },
       {
         "SectionId": 1,
@@ -225,82 +639,82 @@
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg QD (Hardin 88) caps fed"
+        "Simulation": "po 100 mg SD caps fast"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg QD (vanPeer 89) caps fed"
+        "Simulation": "po 200 mg MD OD caps fast"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg SD (vanPeer 89) caps fast"
+        "Simulation": "po 200 mg SD caps fast"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg SD (vanPeer 89) caps fed"
+        "Simulation": "po 100 mg MD OD caps fed 1"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg BID (Barone 93) caps fed"
+        "Simulation": "po 100 mg MD OD caps fed 2"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg BID (Hardin 88) caps fed"
+        "Simulation": "po 100 mg SD caps fed"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg QD (Hardin 88) caps fed"
+        "Simulation": "po 200 mg MD BID caps fed 1"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg QD (Olkkola 94) caps fast"
+        "Simulation": "po 200 mg MD BID caps fed 2"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg SD (Barone 93) caps fast"
+        "Simulation": "po 200 mg MD OD caps fed"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg SD (Barone 98b) caps fed"
+        "Simulation": "po 200 mg SD caps fed"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg QD (Templeton 08) sol fast"
+        "Simulation": "po 100 mg MD OD sol fast"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg SD (vanDeVelde 96) sol fast"
+        "Simulation": "po 100 mg SD sol fast"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 100 mg SD (vanDeVelde 96) sol fed"
+        "Simulation": "po 200 mg MD OD sol fast"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg QD (Barone 1998a) sol fast"
+        "Simulation": "po 100 mg SD  sol fed"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg QD (Barone 98a) sol fed"
+        "Simulation": "po 200 mg MD OD sol fed"
       },
       {
         "SectionId": 1,
         "Project": "Itraconazole",
-        "Simulation": "po 200 mg SD (Barone 98b) sol fed"
+        "Simulation": "po 200 mg SD sol fed"
       }
     ],
     "GOFMergedPlots": [
@@ -315,23 +729,86 @@
             "OutputMappings": [
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida iv 0.05 mgkg - Gorski 1998 - Whole blood",
-                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
-                "ObservedData": "Gorski et al. 1998, iv 0.05 mgkg, Whole blood, n=16",
+                "Simulation": "iv 0.001 mg (5 min)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida iv 0.15 mgkg - Heizmann 1983",
+                "Simulation": "iv 1 mg (5 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "Heizmann et al. 1983, iv 11.42 mg, n=1",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida iv 5 mg- Smith 1981",
+                "Simulation": "iv 0.05 mg/kg (2 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "Smith et al. 1981, iv 5 mg, n=6",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 0.05 mg/kg (30 min)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 0.05 mg/kg (bolus)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 0.075 mg/kg (1 min)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 0.15 mg/kg (bolus)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 1 mg (bolus)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 2 mg (2 min)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 2 mg (bolus",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 5 mg (30 sec)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "iv 5 mg (bolus)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               }
             ]
@@ -342,30 +819,121 @@
             "OutputMappings": [
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida po 0.075 mgkg - Chung 2006",
+                "Simulation": "po 0.003 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "Chung et al. 2006, po 0.075 mgkg, n=19",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida po 10 mg - Heizmann 1983",
+                "Simulation": "po 0.003 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "Heizmann et al. 1983, po 10 mg, n=1",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida po 10 mg - Smith 1981",
+                "Simulation": "po 7.5 mg (tablet)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "Smith et al. 1981, po 10 mg, n=6",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "Mida po 20 mg - Heizmann 1983",
+                "Simulation": "po 0.075 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "Heizmann et al. 1983, po 20 mg, n=1",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 0.075 mg (syrup)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 1 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 10 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 10 mg (tablet)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 15 mg (tablet)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 2 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 20 mg (tablet)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 4 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 40 mg (tablet)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 5 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 6 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 7.5 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Midazolam",
+                "Simulation": "po 8 mg (solution)",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "t.b.d.",
                 "Color": "#FF0000"
               }
             ]
@@ -383,152 +951,236 @@
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "100 mg IV",
+                "Simulation": "100 mg IV SD",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Heykants_89_IV_100mg_SD_Itra",
+                "ObservedData": "Heykants 1989 - iv 100 mg SD - Itraconazole - IV - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "200 mg IV MD",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Mouton_06_200mg_MD_Itra_HPBCD",
+                "ObservedData": "Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
                 "Color": "#FF0000"
               }
             ]
           },
           {
-            "Caption": "Itraconazole po sol fasted",
+            "Caption": "Itraconazole po solution fasted",
             "Symbol": "Circle",
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg QD (Templeton 08) sol fast",
+                "Simulation": "po 100 mg MD OD sol fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Templeton_08_PO_MD_100mg_day1_Itra|Templeton_08_PO_MD_100mg_day7_Itra",
+                "ObservedData": "Templeton 2008 - ITZ day 1 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanDeVelde 96) sol fast",
+                "Simulation": "po 100 mg MD OD sol fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Velde_et_al-1996.Itra.100mg_solution fasted|van Peer_1989.100mg_SD.Solution fasted",
+                "ObservedData": "Templeton 2008 - ITZ day 7 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg QD (Barone 1998a) sol fast",
+                "Simulation": "po 100 mg SD sol fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Barone_et_al-1998a.Itra_Day1.200mg_OD_solution fasted|Barone_et_al-1998a.Itra_Day15.200mg_OD_solution fasted",
+                "ObservedData": "Van de Velde 1996 - Fasting ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg SD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Van Peer 1989 - 100 mg Solution, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Barone 1998a - day 15 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Barone 1998a - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               }
             ]
           },
           {
-            "Caption": "Itraconazole po sol fed",
+            "Caption": "Itraconazole po solution fed",
             "Symbol": "Cross",
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanDeVelde 96) sol fed",
+                "Simulation": "po 100 mg SD  sol fed",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Velde_et_al-1996.Itra.100mg_solution fed|Heykants_89_PO_100mg_SD_solution_Itra_(fig 2)",
+                "ObservedData": "Van de Velde 1996 - Fed ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg QD (Barone 98a) sol fed",
+                "Simulation": "po 100 mg SD  sol fed",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Barone_et_al-1998a.Itra_Day1.200mg_OD_solution fed|Barone_et_al-1998a.Itra_Day15.200mg_OD_solution fed",
+                "ObservedData": "Heykants 1989 - po 100 mg SD fed - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg SD (Barone 98b) sol fed",
+                "Simulation": "po 200 mg MD OD sol fed",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Barone98.Solution 200mg ITZ",
+                "ObservedData": "Barone 1998a - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fed",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Barone 1998a - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg SD sol fed",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Barone 1998b - Solution - Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
             ]
           },
           {
-            "Caption": "Itraconazole po caps fasted",
+            "Caption": "Itraconazole po capsule fasted",
             "Symbol": "Diamond",
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanPeer 89) caps fast",
+                "Simulation": "po 100 mg SD caps fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "van Peer_1989.100mg_SD.Capsule fasted",
+                "ObservedData": "Van Peer 1989 - 100 mg Capsules, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg QD (Olkkola 94) caps fast",
+                "Simulation": "po 200 mg MD OD caps fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Olkkola_1994_Itra",
+                "ObservedData": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg SD (Barone 93) caps fast",
+                "Simulation": "po 200 mg SD caps fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "barone_93_PO_SD_200mg_fasted_Itra",
+                "ObservedData": "Barone 1993 - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               }
             ]
           },
           {
-            "Caption": "Itraconazole po caps fed",
+            "Caption": "Itraconazole po capsule fed",
             "Symbol": "Point",
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg QD (Hardin 88) caps fed",
+                "Simulation": "po 100 mg MD OD caps fed 1",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Hardin_88_PO_100mg_QD_day1_Itra|Hardin_88_PO_100mg_QD_day15_Itra|Hardin_88_Ctrough.100mg",
+                "ObservedData": "Van Peer 1989 - 100 mg Capsules, with food, 15 days MD - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg QD (vanPeer 89) caps fed",
+                "Simulation": "po 100 mg MD OD caps fed 2",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "van Peer_1989.100mg_QD_capsule_breakfast",
+                "ObservedData": "Hardin 1988 - A 100 mg OD (day 1) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanPeer 89) caps fed",
+                "Simulation": "po 100 mg MD OD caps fed 2",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "van Peer_1989.100mg_SD.Capsule fed",
+                "ObservedData": "Hardin 1988 - A 100 mg OD (day 7-15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg BID (Barone 93) caps fed",
+                "Simulation": "po 100 mg MD OD caps fed 2",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "barone_93_PO_SD_200mg_fed_Itra|barone_93_PO_SD_200mg_fasted_Itra",
+                "ObservedData": "Hardin 1988 - A 100 mg OD (day 15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg BID (Hardin 88) caps fed",
+                "Simulation": "po 100 mg SD caps fed",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Hardin_88_PO_200mg_BID_day1_Itra|Hardin_88_PO_200mg_BID_day15_Itra|Hardin_88_Ctrough.200mg BID",
+                "ObservedData": "Van Peer 1989 - 100 mg Capsules, with food - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg QD (Hardin 88) caps fed",
+                "Simulation": "po 200 mg MD BID caps fed 1",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Hardin_88_PO_200mg_QD_day1_Itra|Hardin_88_PO_200mg_QD_day15_Itra|Hardin_88_Ctrough.200mg QD",
+                "ObservedData": "Barone 1993 - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg SD (Barone 98b) caps fed",
+                "Simulation": "po 200 mg MD BID caps fed 1",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "Barone98.F05 capsule 200 mg ITZ|barone_93_PO_SD_200mg_fed_Itra",
+                "ObservedData": "Barone 1993 - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD BID caps fed 2",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Hardin 1988 - C 200 mg BID (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD BID caps fed 2",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Hardin 1988 - C 200 mg BID (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD BID caps fed 2",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Hardin 1988 - C 200 mg BID (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD caps fed",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Hardin 1988 - B 200 mg OD (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD caps fed",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Hardin 1988 - B 200 mg OD (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD caps fed",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Hardin 1988 - B 200 mg OD (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg SD caps fed",
+                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "ObservedData": "Barone 1998b - F05 Capsule - Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
             ]
@@ -542,107 +1194,128 @@
         "Groups": [
           {
             "Caption": "Itraconazole iv",
-            "Symbol": "Asterisk",
-            "OutputMappings": [
-              {
-              "Project": "Itraconazole",
-              "Simulation": "200 mg IV MD",
-              "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-              "ObservedData": "Mouton_06_200mg_MD_OH_HPBCD",
-              "Color": "#FF0000"
-            }
-          ]
-          },
-          {
-            "Caption": "Itraconazole po sol fasted",
-            "Symbol": "Circle",
-            "OutputMappings": [
-              {
-                "Project": "Itraconazole",
-                "Simulation": "po 100 mg QD (Templeton 08) sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Templeton_08_PO_MD_100mg_day1_OH|Templeton_08_PO_MD_100mg_day7_OH",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanDeVelde 96) sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Velde_et_al-1996.OH-Itra.100mg_solution fasted",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Itraconazole",
-                "Simulation": "po 200 mg QD (Barone 1998a) sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution fasted|Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution fasted",
-                "Color": "#FF0000"
-              }
-            ]
-          },
-          {
-            "Caption": "Itraconazole po sol fed",
             "Symbol": "Cross",
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanDeVelde 96) sol fed",
+                "Simulation": "200 mg IV MD",
                 "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Velde_et_al-1996.OH-Itra.100mg_solution fed",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Itraconazole",
-                "Simulation": "po 200 mg QD (Barone 98a) sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Barone_et_al-1998a.OH-Itra_Day1.200mg_OD_solution fed|Barone_et_al-1998a.OH-Itra_Day15.200mg_OD_solution fed",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Itraconazole",
-                "Simulation": "po 200 mg SD (Barone 98b) sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Barone98.Solution 200mg OH-ITZ",
+                "ObservedData": "Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
                 "Color": "#FF0000"
               }
             ]
           },
           {
-            "Caption": "Itraconazole po caps fasted",
+            "Caption": "Itraconazole po solution fasted",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Templeton 2008 - OH-ITZ day 1 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Templeton 2008 - OH-ITZ day 7 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg SD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Van de Velde 1996 - Fasting OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Barone 1998a - day 15 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Barone 1998a - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              }
+            ]
+          },
+          {
+            "Caption": "Itraconazole po solution fed",
+            "Symbol": "Cross",
+            "OutputMappings": [
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg SD  sol fed",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Van de Velde 1996 - Fed OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fed",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Barone 1998a - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD sol fed",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Barone 1998a - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg SD sol fed",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Barone 1998b - Solution - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
+                "Color": "#FF0000"
+              }
+            ]
+          },
+          {
+            "Caption": "Itraconazole po capsule fasted",
             "Symbol": "Diamond",
             "OutputMappings": [
               {
-              "Project": "Itraconazole",
-              "Simulation": "po 200 mg SD (Barone 93) caps fast",
-              "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-              "ObservedData": "barone_93_PO_SD_200mg_fasted_OH",
-              "Color": "#FF0000"
-            }
-          ]
+                "Project": "Itraconazole",
+                "Simulation": "po 200 mg SD caps fast",
+                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "ObservedData": "Barone 1993 - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+                "Color": "#FF0000"
+              }
+            ]
           },
           {
-            "Caption": "Itraconazole po caps fed",
+            "Caption": "Itraconazole po capsule fed",
             "Symbol": "Point",
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg SD (vanPeer 89) caps fed",
+                "Simulation": "po 200 mg MD BID caps fed 1",
                 "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Heykants_89_PO_100mg_SD_OH_(fig 4)",
+                "ObservedData": "Barone 1993 - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg BID (Barone 93) caps fed",
+                "Simulation": "po 200 mg MD BID caps fed 1",
                 "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "barone_93_PO_SD_200mg_fed_OH|barone_93_15days_MD_OH",
+                "ObservedData": "Barone 1993 - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 200 mg SD (Barone 98b) caps fed",
+                "Simulation": "po 200 mg SD caps fed",
                 "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-                "ObservedData": "Barone98.F05 capsule 200 mg OH-ITZ",
+                "ObservedData": "Barone 1998b - F05 Capsule - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
             ]
@@ -655,19 +1328,26 @@
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
-          "Caption": "Itraconazole po sol fasted",
-          "Symbol": "Circle",
-          "OutputMappings": [
-            {
-            "Project": "Itraconazole",
-            "Simulation": "po 100 mg QD (Templeton 08) sol fast",
-            "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
-            "ObservedData": "Templeton_et_al-2007.Keto-Itraconazole|Templeton_et_al-2007.Keto-Itraconazole day7",
-            "Color": "#FF0000"
+            "Caption": "Itraconazole po solution fasted",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Keto-Itraconazole",
+                "ObservedData": "Templeton 2008 - keto-ITZ day 1 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg MD OD sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|Keto-Itraconazole",
+                "ObservedData": "Templeton 2008 - keto-ITZ day 7 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              }
+            ]
           }
         ]
-        }
-      ]
       },
       {
         "SectionId": 1,
@@ -675,97 +1355,104 @@
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
-          "Caption": "Itraconazole po sol fasted",
-          "Symbol": "Circle",
-          "OutputMappings": [
-            {
-            "Project": "Itraconazole",
-            "Simulation": "po 100 mg QD (Templeton 08) sol fast",
-            "Output": "PeripheralVenousBlood|Plasma|N-desalkyl-Itraconazole",
-            "ObservedData": "Templeton_et_al-2007.ND-Itraconazole|Templeton_et_al-2007.ND-Itraconazole day7",
-            "Color": "#FF0000"
+            "Caption": "Itraconazole po solution fasted",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg QD (Templeton 08) sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|N-desalkyl-Itraconazole",
+                "ObservedData": "Templeton 2008 - ND-OH-ITZ day 1 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
+                "Simulation": "po 100 mg QD (Templeton 08) sol fast",
+                "Output": "PeripheralVenousBlood|Plasma|N-desalkyl-Itraconazole",
+                "ObservedData": "Templeton 2008 - ND-OH-ITZ day 7 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+                "Color": "#FF0000"
+              }
+            ]
           }
-          ]
-        }
-      ]
+        ]
       }
     ],
     "ComparisonTimeProfilePlots": [
       {
         "SectionId": 1,
         "Caption": "Ahonen 1995",
-        "SimulationDuration": 18,
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Ahonen 1995 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Ahonen 1995",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Ahonen_1995_Control",
-            "StartTime": 74,
+            "ObservedData": "XXX",
+            "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Ahonen 1995 Midazolam + Itra 100mg MD",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Ahonen_1995_Treatmen",
+            "ObservedData": "XXX",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Backman 1998 (Phase II)",
+        "Caption": "Backmann 1998 (Phase II)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Backmann 1998 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Backmann 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Backmann_1998_Control PhaseII",
-            "StartTime": 74,
+            "ObservedData": "XXX",
+            "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Backmann 1998 Midazolam + Itra 200mg MD",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Backmann_1998_Treatment PhaseII",
+            "ObservedData": "XXX",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Backman 1998 (Phase III)",
+        "Caption": "Backmann 1998 (Phase III)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Backmann 1998 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Backmann 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Backmann_1998_Control PhaseIII",
-            "StartTime": 74,
+            "ObservedData": "XXX",
+            "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Backmann 1998 Midazolam + Itra 200mg MD",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Backmann_1998_Control PhaseIII",
+            "ObservedData": "XXX",
             "StartTime": 170,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
@@ -776,178 +1463,178 @@
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Olkkola 1994 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Olkkola 1994",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1994_Control",
+            "ObservedData": "XXX",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "XXX",
             "StartTime": 73,
             "TimeUnit": "h",
-            "Color": "#FF0000"
-          },
-          {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Olkkola 1994 Midazolam + Itra 200mg MD",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1994_Treatment",
-            "StartTime": 73,
-            "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1996 (Day 1)",
-        "SimulationDuration": 18,
+        "Caption": "Olkkola 1996 (day 1 po)",
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Olkkola 1996 Midazolam PO-IV-PO",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1996_Control",
+            "ObservedData": "XXX",
             "StartTime": 2,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Olkkola 1996 Midazolam PO-IV-PO + Itra 200mg MD",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1996_Treatment",
+            "ObservedData": "XXX",
             "StartTime": 2,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1996 (Day 4)",
-        "SimulationDuration": 18,
+        "Caption": "Olkkola 1996 (day 4 iv)",
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Olkkola 1996 Midazolam PO-IV-PO",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1996_Control",
+            "ObservedData": "XXX",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Olkkola 1996 Midazolam PO-IV-PO + Itra 200mg MD",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1996_Treatment",
+            "ObservedData": "XXX",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1996 (Day 6)",
-        "SimulationDuration": 18,
+        "Caption": "Olkkola 1996 (day 6 po)",
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Olkkola 1996 Midazolam PO-IV-PO",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1996_Control",
+            "ObservedData": "XXX",
             "StartTime": 122,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Olkkola 1996 Midazolam PO-IV-PO + Itra 200mg MD",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Olkkola_1996_Treatment",
+            "ObservedData": "XXX",
             "StartTime": 122,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
         "Caption": "Templeton 2010 (50 mg)",
-        "SimulationDuration": 24,
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Templeton 2010 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Templeton 2010",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Templeton_2010_Control",
-            "StartTime": 4,
+            "ObservedData": "XXX",
+            "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Templeton 2010 Midazolam + Itra  50mg",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Templeton_2010_Treatment Itra 50",
+            "ObservedData": "XXX",
             "StartTime": 4,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
         "Caption": "Templeton 2010 (200 mg)",
-        "SimulationDuration": 24,
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Templeton 2010 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Templeton 2010",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Templeton_2010_Control",
-            "StartTime": 4,
+            "ObservedData": "XXX",
+            "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Templeton 2010 Midazolam + Itra 200mg",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Templeton_2010_Treatment Itra200",
+            "ObservedData": "XXX",
             "StartTime": 4,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       },
       {
         "SectionId": 1,
         "Caption": "Templeton 2010 (400 mg)",
-        "SimulationDuration": 24,
+        "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Control Templeton 2010 Midazolam",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Templeton 2010",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Templeton_2010_Control",
-            "StartTime": 4,
+            "ObservedData": "XXX",
+            "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#377eb8"
           },
           {
-            "Project": "Midazolam_Itraconazole_DDI",
-            "Simulation": "DDI Treatment Templeton 2010 Midazolam + Itra 400mg",
+            "Project": "Itraconazole-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "Templeton_2010_Treatment Itra400",
+            "ObservedData": "XXX",
             "StartTime": 4,
             "TimeUnit": "h",
-            "Color": "#FF0000"
+            "Color": "#e41a1c"
           }
         ]
       }
@@ -955,216 +1642,219 @@
     "DDIRatioPlots": [
       {
         "SectionId": 1,
-        "Caption": "CYP3A4 DDI AUCR",
+        "Caption": "CYP3A4 DDI",
         "PKParameter": "AUC|CMAX",
         "PlotType": "predictedVsObserved|residualsVsObserved",
         "Groups": [
           {
             "Caption": "Itra+Mida (Mida iv)",
             "Color": "#FF0000",
+            "Symbol": "Square",
             "DDIRatios": [
               {
-              "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-              "ObservedData": "DDI_Ratio_CYP3A4",
-              "ObservedDataRecordId": 378,
-              "SimulationControl": {
-                "Project": "Midazolam_Itraconazole_DDI",
-                "Simulation": "DDI Control Olkkola 1996 Midazolam PO-IV-PO",
-                "StartTime": 74,
-                "EndTime": 122,
-                "TimeUnit": "h"
-              },
-              "SimulationDDI": {
-                "Project": "Midazolam_Itraconazole_DDI",
-                "Simulation": "DDI Treatment Olkkola 1996 Midazolam PO-IV-PO + Itra 200mg MD",
-                "StartTime": 74,
-                "EndTime": 122,
-                "TimeUnit": "h"
+                "Project": "Midazolam-Itraconazole-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 378,
+                "SimulationControl": {
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1996",
+                  "StartTime": 74,
+                  "EndTime": 122,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+                  "StartTime": 74,
+                  "EndTime": 122,
+                  "TimeUnit": "h"
+                }
               }
-            }
-          ]
+            ]
           },
           {
             "Caption": "Itra+Mida (Mida po)",
             "Color": "#FF0000",
+            "Symbol": "Circle",
             "DDIRatios": [
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
+                "ObservedData": "DDI",
                 "ObservedDataRecordId": 50,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Ahonen 1995 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Ahonen 1995",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Ahonen 1995 Midazolam + Itra 100mg MD",
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
                   "StartTime": 74,
-                  "EndTime": 122,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
-                "ObservedDataRecordId": 56,
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 58,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Backmann 1998 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backmann 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Backmann 1998 Midazolam + Itra 200mg MD",
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
                   "StartTime": 74,
-                  "EndTime": 122,
+                  "EndTime": 170,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
-                "ObservedDataRecordId": 57,
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 59,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Backmann 1998 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backmann 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Backmann 1998 Midazolam + Itra 200mg MD",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+                  "StartTime": 170,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
+                "ObservedData": "DDI",
                 "ObservedDataRecordId": 370,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Olkkola 1994 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1994",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Olkkola 1994 Midazolam + Itra 200mg MD",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+                  "StartTime": 73,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
+                "ObservedData": "DDI",
                 "ObservedDataRecordId": 377,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Olkkola 1996 Midazolam PO-IV-PO",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1996",
+                  "StartTime": 2,
+                  "EndTime": 74,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Olkkola 1996 Midazolam PO-IV-PO + Itra 200mg MD",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+                  "StartTime": 2,
+                  "EndTime": 74,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
+                "ObservedData": "DDI",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Olkkola 1996 Midazolam PO-IV-PO",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1996",
+                  "StartTime": 122,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Olkkola 1996 Midazolam PO-IV-PO + Itra 200mg MD",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+                  "StartTime": 122,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
-                "ObservedDataRecordId": 424,
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Templeton 2010 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Templeton 2010",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Templeton 2010 Midazolam + Itra  50mg",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+                  "StartTime": 4,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
-                "ObservedDataRecordId": 425,
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Templeton 2010 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Templeton 2010",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Templeton 2010 Midazolam + Itra 200mg",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+                  "StartTime": 4,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam_Itraconazole_DDI",
+                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "DDI_Ratio_CYP3A4",
-                "ObservedDataRecordId": 426,
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Control Templeton 2010 Midazolam",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Control - Midazolam - Templeton 2010",
+                  "StartTime": 0,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam_Itraconazole_DDI",
-                  "Simulation": "DDI Treatment Templeton 2010 Midazolam + Itra 400mg",
-                  "StartTime": 74,
-                  "EndTime": 122,
+                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
+                  "StartTime": 4,
+                  "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               }
