@@ -17,12 +17,28 @@
       ]
     },
     {
+      "Id": "Rifampicin",
+      "Path": "../../Rifampicin/Rifampicin-Model.json",
+      "BuildingBlocks": [
+        {
+          "Type": "Individual",
+          "Name": "European (P-gp modified, CYP3A4 36 h)",
+          "Project": "Midazolam"
+        }
+      ]
+    },
+    {
       "Id": "Itraconazole-Midazolam-DDI",
       "Path": "../../Itraconazole-Midazolam-DDI/Itraconazole-Midazolam-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
           "Name": "European (P-gp modified, CYP3A4 36 h)",
+          "Project": "Midazolam"
+        },
+        {
+          "Type": "Compound",
+          "Name": "Midazolam",
           "Project": "Midazolam"
         },
         {
@@ -69,8 +85,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -88,8 +104,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -107,8 +123,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -126,8 +142,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -145,8 +161,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -164,8 +180,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -183,8 +199,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -202,8 +218,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -221,8 +237,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -240,8 +256,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -259,8 +275,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -278,8 +294,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -297,8 +313,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -316,8 +332,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -335,8 +351,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -354,8 +370,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -373,8 +389,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -392,8 +408,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -411,8 +427,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -430,8 +446,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -449,8 +465,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -468,8 +484,8 @@
           "TargetSimulations": [
             "DDI Control - Ahonen 1995",
             "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "DDI Control - Backmann 1998",
-            "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "DDI Control - Backman 1998",
+            "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "DDI Control - Olkkola 1994",
             "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "DDI Control - Olkkola 1996",
@@ -478,6 +494,958 @@
             "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
             "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
             "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "Rifampicin-Midazolam-DDI",
+      "Path": "../../Rifampicin-Midazolam-DDI/Rifampicin-Midazolam-DDI.json",
+      "BuildingBlocks": [
+        {
+          "Type": "Individual",
+          "Name": "European (P-gp modified, CYP3A4 36 h)",
+          "Project": "Midazolam"
+        },
+        {
+          "Type": "Compound",
+          "Name": "Midazolam",
+          "Project": "Midazolam"
+        },
+        {
+          "Type": "Compound",
+          "Name": "Rifampicin",
+          "Project": "Rifampicin"
+        },
+        {
+          "Type": "Formulation",
+          "Name": "Tablet (Dormicum)",
+          "Project": "Midazolam"
+        }
+      ],
+      "SimulationParameters": [
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (interstitial->intracellular)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
+          ]
+        },
+        {
+          "Project": "Midazolam",
+          "Simulation": "po 3 mg (solution)",
+          "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (intracellular->interstitial)",
+          "TargetSimulations": [
+            "DDI Control - Midazolam - Backman 1996",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "DDI Control - Midazolam - Backman 1998",
+            "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "DDI Control - Midazolam - Chung 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "DDI Control - Midazolam - Gorski 2003 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "DDI Control - Midazolam - Gurley 2006",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "DDI Control - Midazolam - Gurley 2008",
+            "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "DDI Control - Midazolam - Link 2008 (iv)",
+            "DDI Control - Midazolam - Link 2008 (po)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "DDI Control - Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "DDI Control - Midazolam - Szalat 2007"
           ]
         }
       ]
@@ -731,84 +1699,84 @@
                 "Project": "Midazolam",
                 "Simulation": "iv 0.001 mg (5 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 1 mg (5 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.05 mg/kg (2 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.05 mg/kg (30 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.05 mg/kg (bolus)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.075 mg/kg (1 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.15 mg/kg (bolus)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 1 mg (bolus)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 2 mg (2 min)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 2 mg (bolus",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 5 mg (30 sec)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 5 mg (bolus)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               }
             ]
@@ -821,119 +1789,119 @@
                 "Project": "Midazolam",
                 "Simulation": "po 0.003 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.003 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 7.5 mg (tablet)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.075 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.075 mg (syrup)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 1 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 10 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 10 mg (tablet)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 15 mg (tablet)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 2 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 20 mg (tablet)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 4 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 40 mg (tablet)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 5 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 6 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 7.5 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 8 mg (solution)",
                 "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-                "ObservedData": "t.b.d.",
+                "ObservedData": "TODO",
                 "Color": "#FF0000"
               }
             ]
@@ -1069,7 +2037,7 @@
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD caps fast",
                 "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
-                "ObservedData": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+                "ObservedData": "TODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOX",
                 "Color": "#FF0000"
               },
               {
@@ -1375,6 +2343,102 @@
             ]
           }
         ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Rifampicin concentration in plasma/serum",
+        "PlotType": "predictedVsObserved|residualsOverTime",
+        "Groups": [
+          {
+            "Caption": "Rifampicin iv",
+            "Symbol": "Circle",
+            "OutputMappings": [
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin iv 300 mg (0.5 h)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin iv 300 mg (3 h)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin iv 450 mg (3 h)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin iv 600 mg (0.5 h)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin iv 600 mg (3 h)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin iv 600 mg (3 h) MD OD (7 days)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              }
+            ]
+          },
+          {
+            "Caption": "Rifampicin po",
+            "Symbol": "Asterisk",
+            "OutputMappings": [
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 300 mg",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 450 mg",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 450 mg MD OD (7 days)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 600 mg",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 600 mg MD OD (7 days)",
+                "Output": "PeripheralVenousBlood|Plasma|Rifampicin",
+                "ObservedData": "TODO",
+                "Color": "#FF0000"
+              }
+            ]
+          }
+        ]
       }
     ],
     "ComparisonTimeProfilePlots": [
@@ -1388,7 +2452,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Ahonen 1995",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1397,7 +2461,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1406,24 +2470,24 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Backmann 1998 (Phase II)",
+        "Caption": "Backman 1998 (Phase II)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
             "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Backmann 1998",
+            "Simulation": "DDI Control - Midazolam - Backman 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1432,24 +2496,24 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Backmann 1998 (Phase III)",
+        "Caption": "Backman 1998 (Phase III)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
           {
             "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Backmann 1998",
+            "Simulation": "DDI Control - Midazolam - Backman 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+            "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 170,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1466,7 +2530,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1994",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1475,7 +2539,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 73,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1492,7 +2556,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 2,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1501,7 +2565,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 2,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1518,7 +2582,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1527,7 +2591,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1544,7 +2608,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 122,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1553,7 +2617,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 122,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1570,7 +2634,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Templeton 2010",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1579,7 +2643,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1596,7 +2660,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Templeton 2010",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1605,7 +2669,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
             "Color": "#e41a1c"
@@ -1622,7 +2686,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Templeton 2010",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#377eb8"
@@ -1631,8 +2695,676 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
             "Output": "PeripheralVenousBlood|Plasma|Midazolam",
-            "ObservedData": "XXX",
+            "ObservedData": "TODO",
             "StartTime": 4,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Backman 1996",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Backman 1996",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 113,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Backman 1998 (Phase IV)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Backman 1998",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 113,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Backman 1998 (Phase V)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Backman 1998",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 185,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Chung 2006",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Chung 2006",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 166,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Eap 2004 (0.075 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 89,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Eap 2004 (7.5 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 113,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Gorski 2003 (iv)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
+            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Gorski 2003 (po)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
+            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Gurley 2006",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Gurley 2006",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 146,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Gurley 2008",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Gurley 2008",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 146,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2004 (iv)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 104,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2004 (po)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 128,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (iv, RIF @ 5 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 108,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (iv, RIF @ 10 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 108,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (iv, RIF @ 25 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 108,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (iv, RIF @ 75 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 108,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (po, RIF @ 5 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (po, RIF @ 10 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (po, RIF @ 25 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 2011 (po, RIF @ 75 mg)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Link 2008 (iv)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 144,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Link 2008 (po)",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 144,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Phimmasone 2001",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 104,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Reitman 2011",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 648,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 816,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 984,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 1320,
+            "TimeUnit": "h",
+            "Color": "#e41a1c"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Szalat 2007",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Szalat 2007",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#377eb8"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "ObservedData": "TODO",
+            "StartTime": 132,
             "TimeUnit": "h",
             "Color": "#e41a1c"
           }
@@ -1705,14 +3437,14 @@
                 "ObservedDataRecordId": 58,
                 "SimulationControl": {
                   "Project": "Midazolam-Itraconazole-DDI",
-                  "Simulation": "DDI Control - Midazolam - Backmann 1998",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Midazolam-Itraconazole-DDI",
-                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
                   "StartTime": 74,
                   "EndTime": 170,
                   "TimeUnit": "h"
@@ -1725,14 +3457,14 @@
                 "ObservedDataRecordId": 59,
                 "SimulationControl": {
                   "Project": "Midazolam-Itraconazole-DDI",
-                  "Simulation": "DDI Control - Midazolam - Backmann 1998",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
                   "Project": "Midazolam-Itraconazole-DDI",
-                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backmann 1998",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
                   "StartTime": 170,
                   "EndTime": 9999,
                   "TimeUnit": "h"
@@ -1855,6 +3587,560 @@
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
                   "StartTime": 4,
                   "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifa+Mida (Mida iv)",
+            "Color": "#FF0000",
+            "Symbol": "Square",
+            "DDIRatios": [
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 179,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 280,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+                  "StartTime": 104,
+                  "EndTime": 128,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 294,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 295,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 296,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 297,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 342,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+                  "StartTime": 144,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 389,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+                  "StartTime": 144,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 422,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Szalat 2007",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifa+Mida (Mida po)",
+            "Color": "#FF0000",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 54,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1996",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+                  "StartTime": 113,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 56,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+                  "StartTime": 113,
+                  "EndTime": 185,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 57,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+                  "StartTime": 185,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 113,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Chung 2006",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+                  "StartTime": 166,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 129,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+                  "StartTime": 89,
+                  "EndTime": 113,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 132,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+                  "StartTime": 113,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 177,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 215,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gurley 2006",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+                  "StartTime": 146,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 221,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gurley 2008",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+                  "StartTime": 146,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 286,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+                  "StartTime": 128,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 304,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 305,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 306,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 307,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 344,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+                  "StartTime": 144,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 392,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 1320,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 648,
+                  "EndTime": 816,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 393,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 1320,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 816,
+                  "EndTime": 984,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "ObservedData": "DDI",
+                "ObservedDataRecordId": 394,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 1320,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 984,
+                  "EndTime": 1320,
                   "TimeUnit": "h"
                 }
               }
