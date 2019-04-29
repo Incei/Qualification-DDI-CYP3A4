@@ -3,7 +3,7 @@
   "Projects": [
     {
       "Id": "Midazolam",
-      "Path": "../../Midazolam-Model/Midazolam.json"
+      "Path": "https://raw.githubusercontent.com/sfrechen/idazolam-Model/master/Midazolam-Model.json"
     },
     {
       "Id": "Itraconazole",
@@ -18,7 +18,7 @@
     },
     {
       "Id": "Rifampicin",
-      "Path": "../../Rifampicin/Rifampicin-Model.json",
+      "Path": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Model/master/Rifampicin-Model.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
@@ -29,7 +29,7 @@
     },
     {
       "Id": "Itraconazole-Midazolam-DDI",
-      "Path": "../../Itraconazole-Midazolam-DDI/Itraconazole-Midazolam-DDI.json",
+      "Path": "https://raw.githubusercontent.com/sfrechen/Itraconazole-Midazolam-DDI/master/Itraconazole-Midazolam-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
@@ -500,7 +500,7 @@
     },
     {
       "Id": "Rifampicin-Midazolam-DDI",
-      "Path": "../../Rifampicin-Midazolam-DDI/Rifampicin-Midazolam-DDI.json",
+      "Path": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Midazolam-DDI/master/Rifampicin-Midazolam-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
@@ -1698,84 +1698,84 @@
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.001 mg (5 min)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 1 mg (5 min)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.05 mg/kg (2 min)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.05 mg/kg (30 min)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.05 mg/kg (bolus)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.075 mg/kg (1 min)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 0.15 mg/kg (bolus)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 1 mg (bolus)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 2 mg (2 min)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 2 mg (bolus",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 5 mg (30 sec)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "iv 5 mg (bolus)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               }
@@ -1788,119 +1788,119 @@
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.003 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.003 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 7.5 mg (tablet)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.075 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.075 mg (syrup)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 1 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 10 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 10 mg (tablet)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 15 mg (tablet)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 2 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 20 mg (tablet)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 4 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 40 mg (tablet)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 5 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 6 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 7.5 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 8 mg (solution)",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODO",
                 "Color": "#FF0000"
               }
@@ -1920,14 +1920,14 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "100 mg IV SD",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Heykants 1989 - iv 100 mg SD - Itraconazole - IV - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "200 mg IV MD",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
                 "Color": "#FF0000"
               }
@@ -1940,42 +1940,42 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - ITZ day 1 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - ITZ day 7 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van de Velde 1996 - Fasting ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van Peer 1989 - 100 mg Solution, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 15 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               }
@@ -1988,35 +1988,35 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD  sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van de Velde 1996 - Fed ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD  sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Heykants 1989 - po 100 mg SD fed - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998b - Solution - Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
@@ -2029,21 +2029,21 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD caps fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van Peer 1989 - 100 mg Capsules, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD caps fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "TODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOTODOX",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD caps fast",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               }
@@ -2056,98 +2056,98 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD caps fed 1",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van Peer 1989 - 100 mg Capsules, with food, 15 days MD - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD caps fed 2",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - A 100 mg OD (day 1) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD caps fed 2",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - A 100 mg OD (day 7-15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD caps fed 2",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - A 100 mg OD (day 15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD caps fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van Peer 1989 - 100 mg Capsules, with food - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 1",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 1",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 2",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - C 200 mg BID (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 2",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - C 200 mg BID (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 2",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - C 200 mg BID (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD caps fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - B 200 mg OD (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD caps fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - B 200 mg OD (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD caps fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Hardin 1988 - B 200 mg OD (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD caps fed",
-                "Output": "PeripheralVenousBlood|Plasma|Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998b - F05 Capsule - Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
@@ -2167,7 +2167,7 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "200 mg IV MD",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
                 "Color": "#FF0000"
               }
@@ -2180,35 +2180,35 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - OH-ITZ day 1 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - OH-ITZ day 7 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van de Velde 1996 - Fasting OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 15 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               }
@@ -2221,28 +2221,28 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg SD  sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van de Velde 1996 - Fed OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD OD sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998a - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD sol fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998b - Solution - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
@@ -2255,7 +2255,7 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD caps fast",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               }
@@ -2268,21 +2268,21 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 1",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg MD BID caps fed 1",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD caps fed",
-                "Output": "PeripheralVenousBlood|Plasma|Hydroxy-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1998b - F05 Capsule - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
                 "Color": "#FF0000"
               }
@@ -2302,14 +2302,14 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Keto-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - keto-ITZ day 1 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg MD OD sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|Keto-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - keto-ITZ day 7 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               }
@@ -2329,14 +2329,14 @@
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg QD (Templeton 08) sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|N-desalkyl-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - ND-OH-ITZ day 1 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
                 "Simulation": "po 100 mg QD (Templeton 08) sol fast",
-                "Output": "PeripheralVenousBlood|Plasma|N-desalkyl-Itraconazole",
+                "Output": "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - ND-OH-ITZ day 7 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               }
@@ -2451,7 +2451,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Ahonen 1995",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2460,7 +2460,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
@@ -2477,7 +2477,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2486,7 +2486,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
@@ -2503,7 +2503,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2512,7 +2512,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 170,
             "TimeUnit": "h",
@@ -2529,7 +2529,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1994",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2538,7 +2538,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 73,
             "TimeUnit": "h",
@@ -2555,7 +2555,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 2,
             "TimeUnit": "h",
@@ -2564,7 +2564,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 2,
             "TimeUnit": "h",
@@ -2581,7 +2581,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
@@ -2590,7 +2590,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
@@ -2607,7 +2607,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Olkkola 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 122,
             "TimeUnit": "h",
@@ -2616,7 +2616,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 122,
             "TimeUnit": "h",
@@ -2633,7 +2633,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Templeton 2010",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2642,7 +2642,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
@@ -2659,7 +2659,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Templeton 2010",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2668,7 +2668,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
@@ -2685,7 +2685,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Templeton 2010",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2694,7 +2694,7 @@
           {
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
@@ -2711,7 +2711,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Backman 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2720,7 +2720,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 113,
             "TimeUnit": "h",
@@ -2737,7 +2737,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2746,7 +2746,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 113,
             "TimeUnit": "h",
@@ -2763,7 +2763,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2772,7 +2772,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 185,
             "TimeUnit": "h",
@@ -2789,7 +2789,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Chung 2006",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2798,7 +2798,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 166,
             "TimeUnit": "h",
@@ -2815,7 +2815,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2824,7 +2824,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 89,
             "TimeUnit": "h",
@@ -2841,7 +2841,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2850,7 +2850,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 113,
             "TimeUnit": "h",
@@ -2867,7 +2867,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
-            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2876,7 +2876,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
-            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -2893,7 +2893,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
-            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2902,7 +2902,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
-            "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -2919,7 +2919,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Gurley 2006",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2928,7 +2928,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 146,
             "TimeUnit": "h",
@@ -2945,7 +2945,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Gurley 2008",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2954,7 +2954,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 146,
             "TimeUnit": "h",
@@ -2971,7 +2971,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -2980,7 +2980,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 104,
             "TimeUnit": "h",
@@ -2997,7 +2997,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3006,7 +3006,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 128,
             "TimeUnit": "h",
@@ -3023,7 +3023,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3032,7 +3032,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
@@ -3049,7 +3049,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3058,7 +3058,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
@@ -3075,7 +3075,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3084,7 +3084,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
@@ -3101,7 +3101,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3110,7 +3110,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
@@ -3127,7 +3127,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3136,7 +3136,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -3153,7 +3153,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3162,7 +3162,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -3179,7 +3179,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3188,7 +3188,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -3205,7 +3205,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3214,7 +3214,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -3231,7 +3231,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3240,7 +3240,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 144,
             "TimeUnit": "h",
@@ -3257,7 +3257,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3266,7 +3266,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 144,
             "TimeUnit": "h",
@@ -3283,7 +3283,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3292,7 +3292,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 104,
             "TimeUnit": "h",
@@ -3309,7 +3309,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 648,
             "TimeUnit": "h",
@@ -3318,7 +3318,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 816,
             "TimeUnit": "h",
@@ -3327,7 +3327,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 984,
             "TimeUnit": "h",
@@ -3336,7 +3336,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 1320,
             "TimeUnit": "h",
@@ -3353,7 +3353,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Szalat 2007",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
@@ -3362,7 +3362,7 @@
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
-            "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
@@ -3385,7 +3385,7 @@
             "DDIRatios": [
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 378,
                 "SimulationControl": {
@@ -3412,7 +3412,7 @@
             "DDIRatios": [
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 50,
                 "SimulationControl": {
@@ -3432,7 +3432,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 58,
                 "SimulationControl": {
@@ -3452,7 +3452,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 59,
                 "SimulationControl": {
@@ -3472,7 +3472,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 370,
                 "SimulationControl": {
@@ -3492,7 +3492,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 377,
                 "SimulationControl": {
@@ -3512,7 +3512,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
@@ -3532,7 +3532,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
@@ -3552,7 +3552,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
@@ -3572,7 +3572,7 @@
               },
               {
                 "Project": "Midazolam-Itraconazole-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
@@ -3599,7 +3599,7 @@
             "DDIRatios": [
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 179,
                 "SimulationControl": {
@@ -3619,7 +3619,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 280,
                 "SimulationControl": {
@@ -3639,7 +3639,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 294,
                 "SimulationControl": {
@@ -3659,7 +3659,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 295,
                 "SimulationControl": {
@@ -3679,7 +3679,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 296,
                 "SimulationControl": {
@@ -3699,7 +3699,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 297,
                 "SimulationControl": {
@@ -3719,7 +3719,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 342,
                 "SimulationControl": {
@@ -3739,7 +3739,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 389,
                 "SimulationControl": {
@@ -3759,7 +3759,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 422,
                 "SimulationControl": {
@@ -3786,7 +3786,7 @@
             "DDIRatios": [
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 54,
                 "SimulationControl": {
@@ -3806,7 +3806,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 56,
                 "SimulationControl": {
@@ -3826,7 +3826,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 57,
                 "SimulationControl": {
@@ -3846,7 +3846,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 113,
                 "SimulationControl": {
@@ -3866,7 +3866,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 129,
                 "SimulationControl": {
@@ -3886,7 +3886,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 132,
                 "SimulationControl": {
@@ -3906,7 +3906,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Whole Blood|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 177,
                 "SimulationControl": {
@@ -3926,7 +3926,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 215,
                 "SimulationControl": {
@@ -3946,7 +3946,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 221,
                 "SimulationControl": {
@@ -3966,7 +3966,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 286,
                 "SimulationControl": {
@@ -3986,7 +3986,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 304,
                 "SimulationControl": {
@@ -4006,7 +4006,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 305,
                 "SimulationControl": {
@@ -4026,7 +4026,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 306,
                 "SimulationControl": {
@@ -4046,7 +4046,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 307,
                 "SimulationControl": {
@@ -4066,7 +4066,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 344,
                 "SimulationControl": {
@@ -4086,7 +4086,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 392,
                 "SimulationControl": {
@@ -4106,7 +4106,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 393,
                 "SimulationControl": {
@@ -4126,7 +4126,7 @@
               },
               {
                 "Project": "Midazolam-Rifampicin-DDI",
-                "Output": "PeripheralVenousBlood|Plasma|Midazolam",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI",
                 "ObservedDataRecordId": 394,
                 "SimulationControl": {
