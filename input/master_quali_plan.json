@@ -2455,7 +2455,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2464,13 +2466,15 @@
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Itraconazole)",
+            "Symbol": "Square"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Backman 1998 (Phase II)",
+        "Caption": "Backman 1998",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2481,7 +2485,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2490,24 +2496,9 @@
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Backman 1998 (Phase III)",
-        "SimulationDuration": 20,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Backman 1998",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#b2182b",
+            "Caption": "Treatment Phase II (with Itraconazole)",
+            "Symbol": "Square"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2516,7 +2507,9 @@
             "ObservedData": "TODO",
             "StartTime": 170,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#d6604d",
+            "Caption": "Treatment Phase III (with Itraconazole)",
+            "Symbol": "Triangle"
           }
         ]
       },
@@ -2533,7 +2526,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2542,7 +2537,9 @@
             "ObservedData": "TODO",
             "StartTime": 73,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Itraconazole)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2559,7 +2556,9 @@
             "ObservedData": "TODO",
             "StartTime": 2,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2568,7 +2567,9 @@
             "ObservedData": "TODO",
             "StartTime": 2,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Itraconazole)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2585,7 +2586,9 @@
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2594,7 +2597,9 @@
             "ObservedData": "TODO",
             "StartTime": 74,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Itraconazole)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2611,7 +2616,9 @@
             "ObservedData": "TODO",
             "StartTime": 122,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2620,13 +2627,15 @@
             "ObservedData": "TODO",
             "StartTime": 122,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Itraconazole)",
+            "Symbol": "Square"
           }
         ]
       },
       {
         "SectionId": 1,
-        "Caption": "Templeton 2010 (50 mg)",
+        "Caption": "Templeton 2010",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -2637,7 +2646,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Itraconazole)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2646,24 +2657,9 @@
             "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Templeton 2010 (200 mg)",
-        "SimulationDuration": 20,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Templeton 2010",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#f4a582",
+            "Caption": "Treatment (with 100 mg Itraconazole)",
+            "Symbol": "Square"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2672,24 +2668,9 @@
             "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Templeton 2010 (400 mg)",
-        "SimulationDuration": 20,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Itraconazole-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Templeton 2010",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#d6604d",
+            "Caption": "Treatment (with 200 mg Itraconazole)",
+            "Symbol": "Triangle"
           },
           {
             "Project": "Itraconazole-Midazolam-DDI",
@@ -2698,7 +2679,9 @@
             "ObservedData": "TODO",
             "StartTime": 4,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with 400 mg Itraconazole)",
+            "Symbol": "Diamond"
           }
         ]
       },
@@ -2715,7 +2698,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2724,7 +2709,9 @@
             "ObservedData": "TODO",
             "StartTime": 113,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2741,7 +2728,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2750,24 +2739,9 @@
             "ObservedData": "TODO",
             "StartTime": 113,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Backman 1998 (Phase V)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Backman 1998",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#b2182b",
+            "Caption": "Treatment Phase IV (with Rifampicin)",
+            "Symbol": "Square"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2776,7 +2750,9 @@
             "ObservedData": "TODO",
             "StartTime": 185,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#d6604d",
+            "Caption": "Treatment Phase V (with Rifampicin)",
+            "Symbol": "Diamond"
           }
         ]
       },
@@ -2793,7 +2769,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2802,7 +2780,9 @@
             "ObservedData": "TODO",
             "StartTime": 166,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2819,7 +2799,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2828,7 +2810,9 @@
             "ObservedData": "TODO",
             "StartTime": 89,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2845,7 +2829,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2854,7 +2840,9 @@
             "ObservedData": "TODO",
             "StartTime": 113,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2871,7 +2859,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2880,7 +2870,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2897,7 +2889,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2906,7 +2900,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2923,7 +2919,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2932,7 +2930,9 @@
             "ObservedData": "TODO",
             "StartTime": 146,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2949,7 +2949,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2958,7 +2960,39 @@
             "ObservedData": "TODO",
             "StartTime": 146,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
+          }
+        ]
+      },
+      {
+        "SectionId": 1,
+        "Caption": "Kharasch 1997",
+        "SimulationDuration": 24,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Control - Midazolam - Kharasch 1997",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "TODO",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Rifampicin-Midazolam-DDI",
+            "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
+            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "TODO",
+            "StartTime": 120,
+            "TimeUnit": "h",
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -2975,7 +3009,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -2984,7 +3020,9 @@
             "ObservedData": "TODO",
             "StartTime": 104,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -3001,7 +3039,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3010,7 +3050,9 @@
             "ObservedData": "TODO",
             "StartTime": 128,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -3027,7 +3069,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3036,24 +3080,9 @@
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Kharasch 2011 (iv, RIF @ 10 mg)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#fddbc7",
+            "Caption": "Treatment (with 5 mg Rifampicin)",
+            "Symbol": "Square"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3062,24 +3091,9 @@
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Kharasch 2011 (iv, RIF @ 25 mg)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#f4a582",
+            "Caption": "Treatment (with 10 mg Rifampicin)",
+            "Symbol": "Triangle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3088,24 +3102,9 @@
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Kharasch 2011 (iv, RIF @ 75 mg)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#d6604d",
+            "Caption": "Treatment (with 25 mg Rifampicin)",
+            "Symbol": "Diamond"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3114,7 +3113,9 @@
             "ObservedData": "TODO",
             "StartTime": 108,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with 75 mg Rifampicin)",
+            "Symbol": "Asterisk"
           }
         ]
       },
@@ -3131,7 +3132,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3140,24 +3143,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Kharasch 2011 (po, RIF @ 10 mg)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#fddbc7",
+            "Caption": "Treatment (with 5 mg Rifampicin)",
+            "Symbol": "Square"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3166,24 +3154,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Kharasch 2011 (po, RIF @ 25 mg)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#f4a582",
+            "Caption": "Treatment (with 10 mg Rifampicin)",
+            "Symbol": "Triangle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3192,24 +3165,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
-          }
-        ]
-      },
-      {
-        "SectionId": 1,
-        "Caption": "Kharasch 2011 (po, RIF @ 75 mg)",
-        "SimulationDuration": 24,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Rifampicin-Midazolam-DDI",
-            "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
-            "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "TODO",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#d6604d",
+            "Caption": "Treatment (with 25 mg Rifampicin)",
+            "Symbol": "Diamond"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3218,7 +3176,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with 75 mg Rifampicin)",
+            "Symbol": "Asterisk"
           }
         ]
       },
@@ -3235,7 +3195,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3244,7 +3206,9 @@
             "ObservedData": "TODO",
             "StartTime": 144,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -3261,7 +3225,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3270,7 +3236,9 @@
             "ObservedData": "TODO",
             "StartTime": 144,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -3287,16 +3255,20 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
-            "StartTime": 104,
+            "StartTime": 106,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       },
@@ -3311,9 +3283,12 @@
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "TODO",
+            "Name": "Week 0",
             "StartTime": 648,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#b2182b",
+            "Caption": "Week 0 after treatment with rifampicin",
+            "Symbol": "Square"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3322,7 +3297,9 @@
             "ObservedData": "TODO",
             "StartTime": 816,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#d6604d",
+            "Caption": "Week 1 after treatment with rifampicin",
+            "Symbol": "Triangle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3331,7 +3308,9 @@
             "ObservedData": "TODO",
             "StartTime": 984,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#f4a582",
+            "Caption": "Week 2 after treatment with rifampicin",
+            "Symbol": "Diamond"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3340,7 +3319,9 @@
             "ObservedData": "TODO",
             "StartTime": 1320,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#fddbc7",
+            "Caption": "Week 4 after treatment with rifampicin",
+            "Symbol": "Circle"
           }
         ]
       },
@@ -3357,7 +3338,9 @@
             "ObservedData": "TODO",
             "StartTime": 0,
             "TimeUnit": "h",
-            "Color": "#2166ac"
+            "Color": "#2166ac",
+            "Caption": "Control (without Rifampicin)",
+            "Symbol": "Circle"
           },
           {
             "Project": "Rifampicin-Midazolam-DDI",
@@ -3366,7 +3349,9 @@
             "ObservedData": "TODO",
             "StartTime": 132,
             "TimeUnit": "h",
-            "Color": "#b2182b"
+            "Color": "#b2182b",
+            "Caption": "Treatment (with Rifampicin)",
+            "Symbol": "Square"
           }
         ]
       }
@@ -3384,7 +3369,6 @@
             "Symbol": "Square",
             "DDIRatios": [
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 378,
@@ -3411,7 +3395,6 @@
             "Symbol": "Circle",
             "DDIRatios": [
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 50,
@@ -3431,7 +3414,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 58,
@@ -3451,7 +3433,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 59,
@@ -3471,7 +3452,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 370,
@@ -3491,7 +3471,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 377,
@@ -3511,7 +3490,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
@@ -3531,7 +3509,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
@@ -3551,7 +3528,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
@@ -3571,7 +3547,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Itraconazole-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
@@ -3598,7 +3573,6 @@
             "Symbol": "Square",
             "DDIRatios": [
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 179,
@@ -3618,7 +3592,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 280,
@@ -3638,7 +3611,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 294,
@@ -3658,7 +3630,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 295,
@@ -3678,7 +3649,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 296,
@@ -3698,7 +3668,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 297,
@@ -3718,7 +3687,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 342,
@@ -3738,7 +3706,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 389,
@@ -3752,13 +3719,12 @@
                 "SimulationDDI": {
                   "Project": "Midazolam-Rifampicin-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
-                  "StartTime": 144,
+                  "StartTime": 106,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 422,
@@ -3785,7 +3751,6 @@
             "Symbol": "Circle",
             "DDIRatios": [
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 54,
@@ -3805,7 +3770,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 56,
@@ -3825,7 +3789,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 57,
@@ -3845,7 +3808,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 113,
@@ -3865,7 +3827,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 129,
@@ -3885,7 +3846,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 132,
@@ -3905,7 +3865,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 177,
@@ -3925,7 +3884,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 215,
@@ -3945,7 +3903,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 221,
@@ -3965,7 +3922,25 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 286,
+                "SimulationControl": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 1997 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
+                  "StartTime": 120,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 286,
@@ -3985,7 +3960,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 304,
@@ -4005,7 +3979,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 305,
@@ -4025,7 +3998,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 306,
@@ -4045,7 +4017,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 307,
@@ -4065,7 +4036,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 344,
@@ -4085,7 +4055,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 392,
@@ -4105,7 +4074,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 393,
@@ -4125,7 +4093,6 @@
                 }
               },
               {
-                "Project": "Midazolam-Rifampicin-DDI",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 394,
@@ -4157,5 +4124,12 @@
       "Content": "Content/Section1.md"
     }
   ],
-  "Inputs": []
+  "Inputs": [
+    {
+      "Project": "Midazolam",
+      "Name": "Midazolam",
+      "Type": "Compound",
+      "SectionId": 1
+    }
+  ]
 }
