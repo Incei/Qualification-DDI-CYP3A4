@@ -1891,7 +1891,7 @@
                 "Project": "Midazolam",
                 "Simulation": "iv 0.001 mg (5 min)",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Hohmann 2015 - iv 1 micg - Midazolam - IV - 1 Âµg - Plasma - agg. (n=16)",
+                "ObservedData": "Hohmann 2015 - iv 0.001 mg - Midazolam - IV - 0.001 mg - Plasma - agg. (n=16)",
                 "Color": "#FF0000"
               },
               {
@@ -2065,14 +2065,14 @@
                 "Project": "Midazolam",
                 "Simulation": "po 0.003 mg (solution)",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Hohmann 2015 - po 3 micg - Midazolam - PO - 3 Âµg - Plasma - agg. (n=16)",
+                "ObservedData": "Hohmann 2015 - po 0.003 mg - Midazolam - PO - 0.003 mg - Plasma - agg. (n=16)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Midazolam",
                 "Simulation": "po 0.075 mg (solution)",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Eap 2004 - 75 micg Control (Perpetrator Placebo) - Midazolam - PO - 75 Âµg - Plasma - agg. (n=21)",
+                "ObservedData": "Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21)",
                 "Color": "#FF0000"
               },
               {
@@ -2563,6 +2563,13 @@
               },
               {
                 "Project": "Itraconazole",
+                "Simulation": "po 200 mg MD OD caps fast",
+                "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Itraconazole",
                 "Simulation": "po 200 mg SD caps fast",
                 "Output": "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Barone 1993 - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
@@ -3008,9 +3015,23 @@
               },
               {
                 "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 300 mg",
+                "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Furesz 1970 - 300 mg - Rifampicin - PO - 300 mg - Serum - agg. (n=5)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
                 "Simulation": "Rifampicin po 450 mg",
                 "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Blume 1989 - 450 mg REFERENZ - Rifampicin - PO - 450 mg - Plasma - agg. (n=8)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 450 mg",
+                "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "BFuresz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13)",
                 "Color": "#FF0000"
               },
               {
@@ -3032,6 +3053,13 @@
                 "Simulation": "Rifampicin po 600 mg",
                 "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Acocella 1972b - normal subjects - Rifampicin - PO - 600 mg - Serum - agg. (n=6)",
+                "Color": "#FF0000"
+              },
+              {
+                "Project": "Rifampicin",
+                "Simulation": "Rifampicin po 600 mg",
+                "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Furesz 1970 - 600 mg - Rifampicin - PO - 600 mg - Serum - agg. (n=12)",
                 "Color": "#FF0000"
               }
             ]
@@ -3394,7 +3422,7 @@
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Eap 2004 - 75 micg Control (Perpetrator Placebo) - Midazolam - PO - 75 Âµg - Plasma - agg. (n=21)",
+            "ObservedData": "Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21)",
             "StartTime": 0,
             "TimeUnit": "h",
             "Color": "#2166ac",
@@ -3405,7 +3433,7 @@
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Eap 2004 - 75 micg with Perpetrator (Rifampicin) - Midazolam - PO - 75 Âµg - Plasma - agg. (n=4)",
+            "ObservedData": "Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mµg - Plasma - agg. (n=4)",
             "StartTime": 90,
             "TimeUnit": "h",
             "Color": "#b2182b",
@@ -4719,7 +4747,7 @@
     {
       "Id": 1,
       "Title": "Chapter 1",
-      "Content": "Content/Section1.md"
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/README.md"
     }
   ],
   "Inputs": [
