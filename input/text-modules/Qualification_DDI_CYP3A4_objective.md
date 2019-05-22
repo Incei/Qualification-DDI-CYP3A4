@@ -1,4 +1,4 @@
-## Motivation 
+## Objective 
 
 This qualification report evaluates the predictive performance of the open systems pharmacology (OSP) suite to predict cytochrome P450 3A4 (CYP3A4)-mediated drug-drug interactions. A PBPK model network of selected index CYP3A4 DDI perpetrators, covering the range from strong induction to strong inhibition, and respective sensitive index CYP3A4 victim drugs has been built and evaluated. All models are whole-body PBPK models, allowing for dynamic DDI assessment in organs expressing CYP3A4. 
 
