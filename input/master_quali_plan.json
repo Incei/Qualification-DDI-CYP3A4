@@ -1880,7 +1880,7 @@
     "GOFMergedPlots": [
       {
         "SectionId": 1,
-        "Caption": "Midazolam concentration in plasma/blood",
+        "Title": "Midazolam concentration in plasma/blood",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
@@ -2431,7 +2431,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Itraconazole concentration in plasma",
+        "Title": "Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
@@ -2685,7 +2685,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Hydroxy-Itraconazole concentration in plasma",
+        "Title": "Hydroxy-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
@@ -2820,7 +2820,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Keto-Itraconazole concentration in plasma",
+        "Title": "Keto-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
@@ -2847,7 +2847,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "N-desalkyl-Itraconazole concentration in plasma",
+        "Title": "N-desalkyl-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
@@ -2874,7 +2874,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Rifampicin concentration in plasma/serum",
+        "Title": "Rifampicin concentration in plasma/serum",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
           {
@@ -3070,7 +3070,7 @@
     "ComparisonTimeProfilePlots": [
       {
         "SectionId": 1,
-        "Caption": "Ahonen 1995",
+        "Title": "Ahonen 1995",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3100,7 +3100,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Backman 1998",
+        "Title": "Backman 1998",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3141,7 +3141,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1994",
+        "Title": "Olkkola 1994",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3171,7 +3171,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1996 (day 1 po)",
+        "Title": "Olkkola 1996 (day 1 po)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3201,7 +3201,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1996 (day 4 iv)",
+        "Title": "Olkkola 1996 (day 4 iv)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3231,7 +3231,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Olkkola 1996 (day 6 po)",
+        "Title": "Olkkola 1996 (day 6 po)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3261,7 +3261,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Templeton 2010",
+        "Title": "Templeton 2010",
         "SimulationDuration": 20,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3313,7 +3313,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Backman 1996",
+        "Title": "Backman 1996",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3343,7 +3343,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Backman 1998 (Phase IV)",
+        "Title": "Backman 1998 (Phase IV)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3384,7 +3384,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Chung 2006",
+        "Title": "Chung 2006",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3414,7 +3414,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Eap 2004 (0.075 mg)",
+        "Title": "Eap 2004 (0.075 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3444,7 +3444,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Eap 2004 (7.5 mg)",
+        "Title": "Eap 2004 (7.5 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3474,7 +3474,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Gorski 2003 (iv)",
+        "Title": "Gorski 2003 (iv)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3504,7 +3504,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Gorski 2003 (po)",
+        "Title": "Gorski 2003 (po)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3534,7 +3534,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Gurley 2006",
+        "Title": "Gurley 2006",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3564,7 +3564,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Gurley 2008",
+        "Title": "Gurley 2008",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3594,7 +3594,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Kharasch 1997",
+        "Title": "Kharasch 1997",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3624,7 +3624,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Kharasch 2004 (iv)",
+        "Title": "Kharasch 2004 (iv)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3654,7 +3654,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Kharasch 2004 (po)",
+        "Title": "Kharasch 2004 (po)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3684,7 +3684,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Kharasch 2011 (iv, RIF @ 5 mg)",
+        "Title": "Kharasch 2011 (iv, RIF @ 5 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3747,7 +3747,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Kharasch 2011 (po, RIF @ 5 mg)",
+        "Title": "Kharasch 2011 (po, RIF @ 5 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3810,7 +3810,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Link 2008 (iv)",
+        "Title": "Link 2008 (iv)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3840,7 +3840,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Link 2008 (po)",
+        "Title": "Link 2008 (po)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3870,7 +3870,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Phimmasone 2001",
+        "Title": "Phimmasone 2001",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3900,7 +3900,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Reitman 2011",
+        "Title": "Reitman 2011",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3953,7 +3953,7 @@
       },
       {
         "SectionId": 1,
-        "Caption": "Szalat 2007",
+        "Title": "Szalat 2007",
         "SimulationDuration": 24,
         "TimeUnit": "h",
         "OutputMappings": [
@@ -3985,7 +3985,7 @@
     "DDIRatioPlots": [
       {
         "SectionId": 1,
-        "Caption": "CYP3A4 DDI",
+        "Title": "CYP3A4 DDI",
         "PKParameter": "AUC|CMAX",
         "PlotType": "predictedVsObserved|residualsVsObserved",
         "Groups": [
