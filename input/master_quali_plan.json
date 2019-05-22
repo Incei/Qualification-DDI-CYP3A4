@@ -2856,14 +2856,14 @@
             "OutputMappings": [
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg QD (Templeton 08) sol fast",
+                "Simulation": "po 100 mg MD OD sol fast",
                 "Output": "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - ND-OH-ITZ day 1 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Itraconazole",
-                "Simulation": "po 100 mg QD (Templeton 08) sol fast",
+                "Simulation": "po 100 mg MD OD sol fast",
                 "Output": "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Templeton 2008 - ND-OH-ITZ day 7 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
                 "Color": "#FF0000"
@@ -4743,19 +4743,97 @@
       }
     ]
   },
-  "Sections": [
-    {
-      "Id": 1,
-      "Title": "Chapter 1",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/README.md"
-    }
-  ],
   "Inputs": [
     {
       "Project": "Midazolam",
       "Name": "Midazolam",
       "Type": "Compound",
       "SectionId": 1
+    }
+  ],
+  "Sections": [
+    {
+      "Id": 1,
+      "Title": "Introduction",
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Blank.md",
+      "Sections": [
+        {
+          "Id": 2,
+          "Title": "Objective",
+          "Content": "https://raw.githubusercontent.com/sfrechen/Qualification-DDI-CYP3A4/master/input/text-modules/Qualification_DDI_CYP3A4_objective.md"
+        },
+        {
+          "Id": 3,
+          "Title": "CYP3A4 DDI Network",
+          "Content": "https://raw.githubusercontent.com/sfrechen/Qualification-DDI-CYP3A4/master/input/text-modules/Qualification_DDI_CYP3A4_network_description.md"
+        },
+        {
+          "Id": 4,
+          "Title": "Qualification Workflow",
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Qualification_Workflow.md"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Title": "Qualification of Use Case CYP3A4-mediated DDI",
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Blank.md"
+    },
+    {
+      "Id": 6,
+      "Title": "Appendix",
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Blank.md",
+      "Sections": [
+        {
+          "Id": 7,
+          "Title": "Open Systems Pharmacology Suite (OSPS) Introduction",
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/OSPS_Introduction.md"
+        },
+        {
+          "Id": 8,
+          "Title": "Mathematical Implementation of drug-drug interactions",
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Mathematical_Implementation_of_DDI.md"
+        },
+        {
+          "Id": 9,
+          "Title": "Evaluation of victim and perpetrator models",
+          "Content": "https://raw.githubusercontent.com/sfrechen/Qualification-DDI-CYP3A4/master/input/text-modules/Intro_evaluation_victim_and_perpetrator_models.md",
+          "Sections": [
+            {
+              "Id": 10,
+              "Title": "Midazolam Model",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Midazolam-Model/master/text-modules/Intro_Midazolam-model.md"
+            },
+            {
+              "Id": 11,
+              "Title": "Itraconazole Model",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Itraconazole-Model/master/text-modules/Intro_Itraconazole-model.md"
+            },
+            {
+              "Id": 12,
+              "Title": "Rifampicin Model",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Model/master/text-modules/Intro_Rifampicin-model.md"
+            }
+          ]
+        },
+        {
+          "Id": 13,
+          "Title": "Evaluation of DDI network (coupled perpetrator / victim simulations)",
+          "Content": "https://raw.githubusercontent.com/sfrechen/Qualification-DDI-CYP3A4/master/input/text-modules/Intro_evaluation_DDI_network.md",
+          "Sections": [
+            {
+              "Id": 14,
+              "Title": "Itraconazole-midazolam DDI",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Itraconazole-Midazolam-DDI/master/text-modules/Intro_Itraconazole-midazolam_DDI.md"
+            },
+            {
+              "Id": 15,
+              "Title": "Rifampicin-midazolam DDI",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Midazolam-DDI/master/text-modules/Intro_Rifampicin-midazolam_DDI.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
