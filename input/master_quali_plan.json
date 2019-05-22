@@ -3119,7 +3119,7 @@
             "Project": "Itraconazole-Midazolam-DDI",
             "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Phase II (during Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9)",
+            "ObservedData": "Backman 1998 - Phase II (during Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9)",
             "StartTime": 74,
             "TimeUnit": "h",
             "Color": "#b2182b",
@@ -3433,7 +3433,7 @@
             "Project": "Rifampicin-Midazolam-DDI",
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mµg - Plasma - agg. (n=4)",
+            "ObservedData": "Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=4)",
             "StartTime": 90,
             "TimeUnit": "h",
             "Color": "#b2182b",
@@ -3999,14 +3999,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 378,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Olkkola 1996 (iv, day 4)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
                   "StartTime": 74,
                   "EndTime": 122,
@@ -4025,14 +4025,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 50,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Ahonen 1995",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
                   "StartTime": 74,
                   "EndTime": 9999,
@@ -4044,14 +4044,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 58,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Backman 1998",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
                   "StartTime": 74,
                   "EndTime": 170,
@@ -4063,14 +4063,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 59,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Backman 1998",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
                   "StartTime": 170,
                   "EndTime": 9999,
@@ -4082,14 +4082,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 370,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Olkkola 1994",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
                   "StartTime": 73,
                   "EndTime": 9999,
@@ -4101,14 +4101,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 377,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
                   "StartTime": 2,
                   "EndTime": 74,
@@ -4120,14 +4120,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
                   "StartTime": 122,
                   "EndTime": 9999,
@@ -4139,14 +4139,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Templeton 2010",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
                   "StartTime": 4,
                   "EndTime": 9999,
@@ -4158,14 +4158,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Templeton 2010",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
                   "StartTime": 4,
                   "EndTime": 9999,
@@ -4177,14 +4177,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 379,
                 "SimulationControl": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Templeton 2010",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Itraconazole-DDI",
+                  "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
                   "StartTime": 4,
                   "EndTime": 9999,
@@ -4203,14 +4203,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 179,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4222,14 +4222,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 280,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
                   "StartTime": 104,
                   "EndTime": 128,
@@ -4241,14 +4241,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 294,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
                   "StartTime": 108,
                   "EndTime": 132,
@@ -4260,14 +4260,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 295,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
                   "StartTime": 108,
                   "EndTime": 132,
@@ -4279,14 +4279,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 296,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
                   "StartTime": 108,
                   "EndTime": 132,
@@ -4298,14 +4298,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 297,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
                   "StartTime": 108,
                   "EndTime": 132,
@@ -4317,14 +4317,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 342,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
                   "StartTime": 144,
                   "EndTime": 9999,
@@ -4336,14 +4336,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 389,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
                   "StartTime": 106,
                   "EndTime": 9999,
@@ -4355,14 +4355,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 422,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Szalat 2007",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4381,14 +4381,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 54,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Backman 1996",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
                   "StartTime": 113,
                   "EndTime": 9999,
@@ -4400,14 +4400,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 56,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Backman 1998",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
                   "StartTime": 113,
                   "EndTime": 185,
@@ -4419,14 +4419,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 57,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Backman 1998",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
                   "StartTime": 185,
                   "EndTime": 9999,
@@ -4438,14 +4438,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 113,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Chung 2006",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
                   "StartTime": 166,
                   "EndTime": 9999,
@@ -4457,14 +4457,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 129,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
                   "StartTime": 90,
                   "EndTime": 114,
@@ -4476,14 +4476,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 132,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
                   "StartTime": 114,
                   "EndTime": 9999,
@@ -4495,14 +4495,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 177,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4514,14 +4514,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 215,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Gurley 2006",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
                   "StartTime": 146,
                   "EndTime": 9999,
@@ -4533,14 +4533,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 221,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Gurley 2008",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
                   "StartTime": 146,
                   "EndTime": 9999,
@@ -4552,14 +4552,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 286,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 1997 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
                   "StartTime": 120,
                   "EndTime": 9999,
@@ -4571,14 +4571,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 286,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
                   "StartTime": 128,
                   "EndTime": 9999,
@@ -4590,14 +4590,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 304,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4609,14 +4609,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 305,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4628,14 +4628,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 306,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4647,14 +4647,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 307,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
                   "StartTime": 132,
                   "EndTime": 9999,
@@ -4666,14 +4666,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 344,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
                   "StartTime": 144,
                   "EndTime": 9999,
@@ -4685,14 +4685,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 392,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
                   "StartTime": 1320,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
                   "StartTime": 648,
                   "EndTime": 816,
@@ -4704,14 +4704,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 393,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
                   "StartTime": 1320,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
                   "StartTime": 816,
                   "EndTime": 984,
@@ -4723,14 +4723,14 @@
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 394,
                 "SimulationControl": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
                   "StartTime": 1320,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 },
                 "SimulationDDI": {
-                  "Project": "Midazolam-Rifampicin-DDI",
+                  "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
                   "StartTime": 984,
                   "EndTime": 1320,
