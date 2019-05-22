@@ -32,7 +32,7 @@ Figure 1 shows the prespecified and developed DDI modeling network of interactin
 
 
 **Figure** **1: CYP3A4 DDI modeling network**
-![DDI CYP3A4 network](/images/DDI_CYP3A4_Compound_Network.png)
+![DDI CYP3A4 network](images/DDI_CYP3A4_Compound_Network.png)
 
 
 
