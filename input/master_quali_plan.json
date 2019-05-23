@@ -4826,32 +4826,104 @@
             {
               "Id": 10,
               "Title": "Midazolam Model",
-              "Content": "https://raw.githubusercontent.com/sfrechen/Midazolam-Model/master/text-modules/Intro_Midazolam-model.md"
+              "Content": "https://raw.githubusercontent.com/sfrechen/Midazolam-Model/master/text-modules/Intro_Midazolam-model.md",
+              "Sections": [
+                {
+                  "Id": 11,
+                  "Title": "Input parameters",
+                  "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Input_parameters.md"
+                },
+                {
+                  "Id": 12,
+                  "Title": "Model evaluation",
+                  "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation.md",
+                  "Sections": [
+                    {
+                      "Id": 13,
+                      "Title": "Concentration-time profiles",
+                      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation_CTprofiles.md"
+                    },
+                    {
+                      "Id": 14,
+                      "Title": "Overall goodness of fit",
+                      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation_GOF.md"
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "Id": 11,
-              "Title": "Itraconazole Model",
-              "Content": "https://raw.githubusercontent.com/sfrechen/Itraconazole-Model/master/text-modules/Intro_Itraconazole-model.md"
+              "Id": 15,
+              "Title": "Itraconzaole Model",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Itraconzaole-Model/master/text-modules/Intro_Itraconzaole-model.md",
+              "Sections": [
+                {
+                  "Id": 16,
+                  "Title": "Input parameters",
+                  "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Input_parameters.md"
+                },
+                {
+                  "Id": 17,
+                  "Title": "Model evaluation",
+                  "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation.md",
+                  "Sections": [
+                    {
+                      "Id": 18,
+                      "Title": "Concentration-time profiles",
+                      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation_CTprofiles.md"
+                    },
+                    {
+                      "Id": 19,
+                      "Title": "Overall goodness of fit",
+                      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation_GOF.md"
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "Id": 12,
+              "Id": 20,
               "Title": "Rifampicin Model",
-              "Content": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Model/master/text-modules/Intro_Rifampicin-model.md"
+              "Content": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Model/master/text-modules/Intro_Rifampicin-model.md",
+              "Sections": [
+                {
+                  "Id": 21,
+                  "Title": "Input parameters",
+                  "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Input_parameters.md"
+                },
+                {
+                  "Id": 22,
+                  "Title": "Model evaluation",
+                  "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation.md",
+                  "Sections": [
+                    {
+                      "Id": 23,
+                      "Title": "Concentration-time profiles",
+                      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation_CTprofiles.md"
+                    },
+                    {
+                      "Id": 24,
+                      "Title": "Overall goodness of fit",
+                      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Intro_Model_evaluation_GOF.md"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "Id": 13,
+          "Id": 25,
           "Title": "Evaluation of DDI network (coupled perpetrator / victim simulations)",
           "Content": "https://raw.githubusercontent.com/sfrechen/Qualification-DDI-CYP3A4/master/input/text-modules/Intro_evaluation_DDI_network.md",
           "Sections": [
             {
-              "Id": 14,
+              "Id": 26,
               "Title": "Itraconazole-midazolam DDI",
               "Content": "https://raw.githubusercontent.com/sfrechen/Itraconazole-Midazolam-DDI/master/text-modules/Intro_Itraconazole-midazolam_DDI.md"
             },
             {
-              "Id": 15,
+              "Id": 27,
               "Title": "Rifampicin-midazolam DDI",
               "Content": "https://raw.githubusercontent.com/sfrechen/Rifampicin-Midazolam-DDI/master/text-modules/Intro_Rifampicin-midazolam_DDI.md"
             }
