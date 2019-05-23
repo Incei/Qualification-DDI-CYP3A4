@@ -3895,7 +3895,6 @@
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "Reitman 2011 - Week 0 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
-            "Name": "Week 0",
             "StartTime": 648,
             "TimeUnit": "h",
             "Color": "#b2182b",
