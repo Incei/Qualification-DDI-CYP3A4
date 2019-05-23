@@ -4752,7 +4752,7 @@
     },
     {
       "Project": "Itraconazole",
-      "Name": "Midazolam",
+      "Name": "Itraconazole",
       "Type": "Compound",
       "SectionId": 1
     },
@@ -4779,7 +4779,7 @@
     {
       "Id": 1,
       "Title": "Introduction",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Blank.md",
+      "Content": "Content/Empty.md",
       "Sections": [
         {
           "Id": 2,
@@ -4801,12 +4801,12 @@
     {
       "Id": 5,
       "Title": "Qualification of Use Case CYP3A4-mediated DDI",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Blank.md"
+      "Content": "Content/Empty.md"
     },
     {
       "Id": 6,
       "Title": "Appendix",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Blank.md",
+      "Content": "Content/Empty.md",
       "Sections": [
         {
           "Id": 7,
@@ -4854,8 +4854,8 @@
             },
             {
               "Id": 15,
-              "Title": "Itraconzaole Model",
-              "Content": "https://raw.githubusercontent.com/sfrechen/Itraconzaole-Model/master/text-modules/Intro_Itraconzaole-model.md",
+              "Title": "Itraconazole Model",
+              "Content": "https://raw.githubusercontent.com/sfrechen/Itraconazole-Model/master/text-modules/Intro_Itraconazole-model.md",
               "Sections": [
                 {
                   "Id": 16,
