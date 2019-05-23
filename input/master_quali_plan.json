@@ -1592,294 +1592,294 @@
     },
     "AllPlots": [
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 0.001 mg (5 min)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 0.05 mg/kg (2 min)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 0.05 mg/kg (30 min)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 0.05 mg/kg (bolus)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 0.075 mg/kg (1 min)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 0.15 mg/kg (bolus)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 1 mg (5 min)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 1 mg (bolus)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 2 mg (bolus)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 5 mg (30 sec)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "iv 5 mg (bolus)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 0.003 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 0.075 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 0.075 mg/kg (syrup)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 10 mg (tablet)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 15 mg (tablet)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 2 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 20 mg (tablet)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 3 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 4 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 40 mg (tablet)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 5 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 6 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 7.5 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 8 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 7.5 mg (tablet)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 10 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 13,
         "Project": "Midazolam",
         "Simulation": "po 2.5 mg (solution)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "100 mg IV SD"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "200 mg IV MD"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg SD caps fast"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg MD OD caps fast"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg SD caps fast"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg MD OD caps fed 1"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg MD OD caps fed 2"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg SD caps fed"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg MD BID caps fed 1"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg MD BID caps fed 2"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg MD OD caps fed"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg SD caps fed"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg MD OD sol fast"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg SD sol fast"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg MD OD sol fast"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 100 mg SD  sol fed"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg MD OD sol fed"
       },
       {
-        "SectionId": 1,
+        "SectionId": 18,
         "Project": "Itraconazole",
         "Simulation": "po 200 mg SD sol fed"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin iv 600 mg (3 h) MD OD (7 days)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin iv 300 mg (0.5 h)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin iv 300 mg (3 h)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin iv 450 mg (3 h)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin iv 600 mg (0.5 h)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin iv 600 mg (3 h)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin po 450 mg MD OD (7 days)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin po 600 mg MD OD (7 days)"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin po 300 mg"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin po 450 mg"
       },
       {
-        "SectionId": 1,
+        "SectionId": 23,
         "Project": "Rifampicin",
         "Simulation": "Rifampicin po 600 mg"
       }
     ],
     "GOFMergedPlots": [
       {
-        "SectionId": 1,
+        "SectionId": 14,
         "Title": "Midazolam concentration in plasma/blood",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -2430,7 +2430,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 19,
         "Title": "Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -2684,7 +2684,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 19,
         "Title": "Hydroxy-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -2819,7 +2819,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 19,
         "Title": "Keto-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -2846,7 +2846,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 24,
         "Title": "N-desalkyl-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -2873,7 +2873,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 24,
         "Title": "Rifampicin concentration in plasma/serum",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -3055,7 +3055,7 @@
     ],
     "ComparisonTimeProfilePlots": [
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Ahonen 1995",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3085,7 +3085,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Backman 1998",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3126,7 +3126,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Olkkola 1994",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3156,7 +3156,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Olkkola 1996 (day 1 po)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3186,7 +3186,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Olkkola 1996 (day 4 iv)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3216,7 +3216,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Olkkola 1996 (day 6 po)",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3246,7 +3246,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 26,
         "Title": "Templeton 2010",
         "SimulationDuration": 20,
         "TimeUnit": "h",
@@ -3298,7 +3298,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Backman 1996",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3328,7 +3328,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Backman 1998 (Phase IV)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3369,7 +3369,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Chung 2006",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3399,7 +3399,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Eap 2004 (0.075 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3429,7 +3429,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Eap 2004 (7.5 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3459,7 +3459,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Gorski 2003 (iv)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3489,7 +3489,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Gorski 2003 (po)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3519,7 +3519,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Gurley 2006",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3549,7 +3549,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Gurley 2008",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3579,7 +3579,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Kharasch 1997",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3609,7 +3609,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Kharasch 2004 (iv)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3639,7 +3639,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Kharasch 2004 (po)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3669,7 +3669,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Kharasch 2011 (iv, RIF @ 5 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3732,7 +3732,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Kharasch 2011 (po, RIF @ 5 mg)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3795,7 +3795,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Link 2008 (iv)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3825,7 +3825,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Link 2008 (po)",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3855,7 +3855,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Phimmasone 2001",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3885,7 +3885,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Reitman 2011",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3938,7 +3938,7 @@
         ]
       },
       {
-        "SectionId": 1,
+        "SectionId": 27,
         "Title": "Szalat 2007",
         "SimulationDuration": 24,
         "TimeUnit": "h",
@@ -3970,7 +3970,7 @@
     ],
     "DDIRatioPlots": [
       {
-        "SectionId": 1,
+        "SectionId": 5,
         "Title": "CYP3A4 DDI",
         "PKParameter": "AUC|CMAX",
         "PlotType": "predictedVsObserved|residualsVsObserved",
@@ -4734,31 +4734,31 @@
       "Project": "Midazolam",
       "Name": "Midazolam",
       "Type": "Compound",
-      "SectionId": 1
+      "SectionId": 11
     },
     {
       "Project": "Itraconazole",
       "Name": "Itraconazole",
       "Type": "Compound",
-      "SectionId": 1
+      "SectionId": 16
     },
     {
       "Project": "Itraconazole",
       "Name": "Capsule fasted",
       "Type": "Formulation",
-      "SectionId": 1
+      "SectionId": 16
     },
     {
       "Project": "Itraconazole",
       "Name": "Capsule fed",
       "Type": "Formulation",
-      "SectionId": 1
+      "SectionId": 16
     },
     {
       "Project": "Rifampicin",
       "Name": "Rifampicin",
       "Type": "Compound",
-      "SectionId": 1
+      "SectionId": 21
     }
   ],
   "Sections": [
