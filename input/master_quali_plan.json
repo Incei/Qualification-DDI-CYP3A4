@@ -4123,7 +4123,7 @@
               {
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 379,
+                "ObservedDataRecordId": 424,
                 "SimulationControl": {
                   "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Templeton 2010",
@@ -4142,7 +4142,7 @@
               {
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 379,
+                "ObservedDataRecordId": 425,
                 "SimulationControl": {
                   "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Templeton 2010",
@@ -4161,7 +4161,7 @@
               {
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 379,
+                "ObservedDataRecordId": 426,
                 "SimulationControl": {
                   "Project": "Itraconazole-Midazolam-DDI",
                   "Simulation": "DDI Control - Midazolam - Templeton 2010",
@@ -4199,6 +4199,25 @@
                   "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
                   "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 276,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 1997",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
+                  "StartTime": 120,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 }
@@ -4529,25 +4548,6 @@
                   "Project": "Rifampicin-Midazolam-DDI",
                   "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
                   "StartTime": 146,
-                  "EndTime": 9999,
-                  "TimeUnit": "h"
-                }
-              },
-              {
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 286,
-                "SimulationControl": {
-                  "Project": "Rifampicin-Midazolam-DDI",
-                  "Simulation": "DDI Control - Midazolam - Kharasch 1997",
-                  "StartTime": 0,
-                  "EndTime": 9999,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Rifampicin-Midazolam-DDI",
-                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
-                  "StartTime": 120,
                   "EndTime": 9999,
                   "TimeUnit": "h"
                 }
