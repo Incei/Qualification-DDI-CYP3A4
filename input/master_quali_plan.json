@@ -2399,27 +2399,6 @@
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "po 15 mg (tablet) - with high-fat breakfast",
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bornemann 1986 - Midazolam - with a meal - po 15 mg (tablet) - mean (n=18)",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Midazolam",
-                "Simulation": "po 15 mg (tablet) - with 1 h before high-fat breakfast",
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bornemann 1986 - Midazolam - 1 h before a meal - po 15 mg (tablet) - mean (n=18)",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Midazolam",
-                "Simulation": "po 15 mg (tablet) - with 1h after high-fat breakfast",
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bornemann 1986 - Midazolam - 1 h after a meal - po 15 mg (tablet) - mean (n=18) - [shifted]",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Midazolam",
                 "Simulation": "po 2.5 mg (solution)",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Okudaira 2007 - EM 0 Control (Perpetrator Placebo) - Midazolam - PO - 2.5 (actually 5) mg - Plasma - agg. (n=12)",
@@ -2846,7 +2825,7 @@
         ]
       },
       {
-        "SectionId": 24,
+        "SectionId": 19,
         "Title": "N-desalkyl-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -3017,7 +2996,7 @@
                 "Project": "Rifampicin",
                 "Simulation": "Rifampicin po 450 mg",
                 "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "BFuresz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13)",
+                "ObservedData": "Furesz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13)",
                 "Color": "#FF0000"
               },
               {
