@@ -2054,7 +2054,7 @@
           "Dimension": "Dimensionless",
           "Type": "Y",
           "GridLines": false,
-          "Scaling": "Log"
+          "Scaling": "Linear"
         }
       ],
       "PKRatioPlots": [
