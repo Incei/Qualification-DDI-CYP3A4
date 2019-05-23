@@ -1,0 +1,145 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Olkkola 1996/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Backman 1998",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Olkkola 1994",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Olkkola 1994/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Olkkola 1994/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Ahonen 1995",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Ahonen 1995/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Ahonen 1995/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Templeton 2010",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Templeton 2010/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Templeton 2010 (50 mg)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Templeton 2010 (200 mg)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Templeton 2010 (400 mg)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Olkkola 1996 (iv, day 4)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Olkkola 1996 (iv, day 4)/"
+    }
+  ],
+  "ObservedDataMappings": [
+    {
+      "Id": "Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase III (4 days after Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase III (4 days after Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase II (during Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase II (during Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 1 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 1 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 4 (iv) with Perpetrator (Itraconazole) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 4 (iv) with Perpetrator (Itraconazole) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 6 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 6 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Templeton 2010 - Control (Perpetrator Placebo) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - Control (Perpetrator Placebo) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2010 - with Perpetrator (Itraconazole @ 50 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - with Perpetrator (Itraconazole @ 50 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2010 - with Perpetrator (Itraconazole @ 200 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - with Perpetrator (Itraconazole @ 200 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2010 - with Perpetrator (Itraconazole @ 400 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - with Perpetrator (Itraconazole @ 400 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 6 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 6 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 4 (iv) Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 4 (iv) Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 1 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 1 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Ahonen 1995 - Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Ahonen 1995 - Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Ahonen 1995 - with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Ahonen 1995 - with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    }
+  ],
+  "Plots": [],
+  "Inputs": []
+}

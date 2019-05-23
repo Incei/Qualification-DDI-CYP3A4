@@ -1,0 +1,3 @@
+Information: Starting qualification run
+Information: Project 'Rifampicin-Midazolam-DDI' exported for qualification in 11m:02s:461ms
+Information: Qualification run finished

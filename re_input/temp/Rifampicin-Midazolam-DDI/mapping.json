@@ -1,0 +1,381 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Backman 1996",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Backman 1996/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Backman 1998",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Backman 1996/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Chung 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Chung 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Chung 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Eap 2004/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Eap 2004 (0.075 mg)"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Eap 2004 (7.5 mg)"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gorski 2003 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gorski 2003 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gorski 2003 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gorski 2003 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gurley 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gurley 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gurley 2008",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gurley 2008/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gurley 2008/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gurley 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2004/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2004 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2004 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Link 2008 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Link 2008 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Link 2008 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Link 2008 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Phimmasone 2001/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Phimmasone 2001/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Reitman 2011/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Szalat 2007/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Szalat 2007",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Szalat 2007/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 5 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 10 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 25 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 75 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2011 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2011 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 1997",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 1997/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 1997/"
+    }
+  ],
+  "ObservedDataMappings": [
+    {
+      "Id": "Backman 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Backman 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Backman 1996 - with Perpetrator (Rifampicin) - Midazolam - PO - 15 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Backman 1996 - with Perpetrator (Rifampicin) - Midazolam - PO - 15 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase IV (during Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase IV (during Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase V (4 days after Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase V (4 days after Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Chung 2006 - Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg/kg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Chung 2006 - Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg_kg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Chung 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg/kg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Chung 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg_kg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21)",
+      "Path": "ObservedData/Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21).csv"
+    },
+    {
+      "Id": "Eap 2004 - 7.5 mg with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Eap 2004 - 7.5 mg with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Eap 2004 - 7.5 mg Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=13)",
+      "Path": "ObservedData/Eap 2004 - 7.5 mg Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=13).csv"
+    },
+    {
+      "Id": "Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Gorski 2003 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - po with Perpetrator (Rifampicin) - Midazolam - PO - 6 mg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - po with Perpetrator (Rifampicin) - Midazolam - PO - 6 mg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gurley 2006 - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2008a - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gurley 2008a - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Kharasch 1997 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Kharasch 1997 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - typical (n=9).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - po #1 Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - po #1 Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - po #1 with Perpetrator (Rifampicin) - Midazolam - PO - 3 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - po #1 with Perpetrator (Rifampicin) - Midazolam - PO - 3 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 5 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 5 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 10 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 10 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 25 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 25 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 75 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 75 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 75 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 75 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Link 2008 - iv Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - iv Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 2 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 2 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - po with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - po with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Phimmasone 2001 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Phimmasone 2001 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Phimmasone 2001 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Phimmasone 2001 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 0 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 0 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 1 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 1 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 2 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 2 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 4 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 4 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Szalat 2007 - Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=3)",
+      "Path": "ObservedData/Szalat 2007 - Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=3).csv"
+    },
+    {
+      "Id": "Szalat 2007 - with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=3)",
+      "Path": "ObservedData/Szalat 2007 - with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=3).csv"
+    },
+    {
+      "Id": "Kharasch 1997 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Kharasch 1997 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - typical (n=9).csv"
+    }
+  ],
+  "Plots": [],
+  "Inputs": []
+}

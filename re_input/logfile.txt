@@ -1,0 +1,33 @@
+Information: Starting qualification workflow
+Information: Starting qualification run
+Information: Qualification run configuration valid
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Qualification run configuration valid
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Qualification run configuration valid
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Qualification run configuration valid
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Qualification run configuration valid
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Project 'Rifampicin' exported for qualification in 02m:29s:602ms
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Project 'Midazolam' exported for qualification in 06m:22s:505ms
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Project 'Itraconazole-Midazolam-DDI' exported for qualification in 06m:36s:873ms
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Project 'Rifampicin-Midazolam-DDI' exported for qualification in 11m:02s:461ms
+Information: Qualification run finished
+Information: Starting qualification run
+Information: Project 'Itraconazole' exported for qualification in 14m:40s:299ms
+Information: Qualification run finished
+Information: Qualification scenario finished in 15m:04s:730ms
+Information: Qualification Workflow finished

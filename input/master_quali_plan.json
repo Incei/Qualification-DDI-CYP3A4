@@ -1538,7 +1538,7 @@
           "Dimension": "Dimensionless",
           "Type": "Y",
           "GridLines": false,
-          "Scaling": "Linear"
+          "Scaling": "Log"
         }
       ],
       "GOFMergedPlotsPredictedVsObserved": [
@@ -1570,7 +1570,7 @@
           "Dimension": "Dimensionless",
           "Type": "Y",
           "GridLines": false,
-          "Scaling": "Linear"
+          "Scaling": "Log"
         }
       ],
       "PKRatioPlots": [

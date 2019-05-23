@@ -1,0 +1,3 @@
+Information: Starting qualification run
+Information: Project 'Itraconazole' exported for qualification in 14m:40s:299ms
+Information: Qualification run finished
