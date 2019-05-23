@@ -1,0 +1,3027 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 0.001 mg (5 min)",
+      "Path": "Midazolam/iv 0.001 mg (5 min)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 0.05 mg/kg (2 min)",
+      "Path": "Midazolam/iv 0.05 mg_kg (2 min)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 0.05 mg/kg (30 min)",
+      "Path": "Midazolam/iv 0.05 mg_kg (30 min)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 0.05 mg/kg (bolus)",
+      "Path": "Midazolam/iv 0.05 mg_kg (bolus)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 0.075 mg/kg (1 min)",
+      "Path": "Midazolam/iv 0.075 mg_kg (1 min)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 0.15 mg/kg (bolus)",
+      "Path": "Midazolam/iv 0.15 mg_kg (bolus)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 1 mg (5 min)",
+      "Path": "Midazolam/iv 1 mg (5 min)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 1 mg (bolus)",
+      "Path": "Midazolam/iv 1 mg (bolus)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 2 mg (2 min)",
+      "Path": "Midazolam/iv 2 mg (2 min)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 2 mg (bolus)",
+      "Path": "Midazolam/iv 2 mg (bolus)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 5 mg (30 sec)",
+      "Path": "Midazolam/iv 5 mg (30 sec)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "iv 5 mg (bolus)",
+      "Path": "Midazolam/iv 5 mg (bolus)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 0.003 mg (solution)",
+      "Path": "Midazolam/po 0.003 mg (solution)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 0.075 mg (solution)",
+      "Path": "Midazolam/po 0.075 mg (solution)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 0.075 mg/kg (syrup)",
+      "Path": "Midazolam/po 0.075 mg_kg (syrup)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 1 mg (solution)",
+      "Path": "Midazolam/po 1 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 10 mg (tablet)",
+      "Path": "Midazolam/po 10 mg (tablet)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 15 mg (tablet)",
+      "Path": "Midazolam/po 15 mg (tablet)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 2 mg (solution)",
+      "Path": "Midazolam/po 2 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 20 mg (tablet)",
+      "Path": "Midazolam/po 20 mg (tablet)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 3 mg (solution)",
+      "Path": "Midazolam/po 3 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 4 mg (solution)",
+      "Path": "Midazolam/po 4 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 40 mg (tablet)",
+      "Path": "Midazolam/po 40 mg (tablet)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 5 mg (solution)",
+      "Path": "Midazolam/po 5 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 6 mg (solution)",
+      "Path": "Midazolam/po 6 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 7.5 mg (solution)",
+      "Path": "Midazolam/po 7.5 mg (solution)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 8 mg (solution)",
+      "Path": "Midazolam/po 8 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 7.5 mg (tablet)",
+      "Path": "Midazolam/po 7.5 mg (tablet)"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 10 mg (solution)",
+      "Path": "Midazolam/po 10 mg (solution)/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 15 mg (tablet) - with high-fat breakfast",
+      "Path": "Midazolam/po 15 mg (tablet) - with high-fat breakfast/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 15 mg (tablet) - with 1 h before high-fat breakfast",
+      "Path": "Midazolam/po 15 mg (tablet) - with 1 h before high-fat breakfast/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 15 mg (tablet) - with 1h after high-fat breakfast",
+      "Path": "Midazolam/po 15 mg (tablet) - with 1h after high-fat breakfast/"
+    },
+    {
+      "Project": "Midazolam",
+      "Simulation": "po 2.5 mg (solution)",
+      "Path": "Midazolam/po 2.5 mg (solution)"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "100 mg IV SD",
+      "Path": "Itraconazole/100 mg IV SD/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg MD OD caps fed 2",
+      "Path": "Itraconazole/po 100 mg MD OD caps fed 2/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg MD OD caps fed 1",
+      "Path": "Itraconazole/po 100 mg MD OD caps fed 1/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg SD caps fast",
+      "Path": "Itraconazole/po 100 mg SD caps fast/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg SD caps fed",
+      "Path": "Itraconazole/po 100 mg SD caps fed/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg MD BID caps fed 1",
+      "Path": "Itraconazole/po 200 mg MD BID caps fed 1/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg MD BID caps fed 2",
+      "Path": "Itraconazole/po 200 mg MD BID caps fed 2/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg SD caps fast",
+      "Path": "Itraconazole/po 200 mg SD caps fast/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg SD caps fed",
+      "Path": "Itraconazole/po 200 mg SD caps fed/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg MD OD sol fast",
+      "Path": "Itraconazole/po 100 mg MD OD sol fast/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg SD sol fast",
+      "Path": "Itraconazole/po 100 mg SD sol fast/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 100 mg SD  sol fed",
+      "Path": "Itraconazole/po 100 mg SD  sol fed/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg MD OD sol fast",
+      "Path": "Itraconazole/po 200 mg MD OD sol fast/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg MD OD caps fed",
+      "Path": "Itraconazole/po 200 mg MD OD caps fed/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg SD sol fed",
+      "Path": "Itraconazole/po 200 mg SD sol fed/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg MD OD sol fed",
+      "Path": "Itraconazole/po 200 mg MD OD sol fed/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "Abdel-Rahman2007 0.5-2yr",
+      "Path": "Itraconazole/Abdel-Rahman2007 0.5-2yr"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "Abdel-Rahman2007 12-16yr",
+      "Path": "Itraconazole/Abdel-Rahman2007 12-16yr/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "Abdel-Rahman2007 2-6yr",
+      "Path": "Itraconazole/Abdel-Rahman2007 2-6yr/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "Abdel-Rahman2007 6-12yr",
+      "Path": "Itraconazole/Abdel-Rahman2007 6-12yr/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "200 mg IV MD",
+      "Path": "Itraconazole/200 mg IV MD/"
+    },
+    {
+      "Project": "Itraconazole",
+      "Simulation": "po 200 mg MD OD caps fast",
+      "Path": "Itraconazole/po 200 mg MD OD caps fast/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin iv 600 mg (3 h) MD OD (7 days)",
+      "Path": "Rifampicin/Rifampicin iv 600 mg (3 h) MD OD (7 days)/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin iv 300 mg (0.5 h)",
+      "Path": "Rifampicin/Rifampicin iv 300 mg (0.5 h)"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin iv 300 mg (3 h)",
+      "Path": "Rifampicin/Rifampicin iv 300 mg (3 h)/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin iv 450 mg (3 h)",
+      "Path": "Rifampicin/Rifampicin iv 450 mg (3 h)/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin iv 600 mg (0.5 h)",
+      "Path": "Rifampicin/Rifampicin iv 600 mg (0.5 h)"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin iv 600 mg (3 h)",
+      "Path": "Rifampicin/Rifampicin iv 600 mg (3 h)/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin po 450 mg MD OD (7 days)",
+      "Path": "Rifampicin/Rifampicin po 450 mg MD OD (7 days)/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin po 600 mg MD OD (7 days)",
+      "Path": "Rifampicin/Rifampicin po 600 mg MD OD (7 days)/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin po 300 mg",
+      "Path": "Rifampicin/Rifampicin po 300 mg/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin po 450 mg",
+      "Path": "Rifampicin/Rifampicin po 450 mg/"
+    },
+    {
+      "Project": "Rifampicin",
+      "Simulation": "Rifampicin po 600 mg",
+      "Path": "Rifampicin/Rifampicin po 600 mg/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Olkkola 1996/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Backman 1998",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Olkkola 1994",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Olkkola 1994/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Olkkola 1994/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Ahonen 1995",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Ahonen 1995/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Ahonen 1995/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Templeton 2010",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Templeton 2010/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Templeton 2010 (50 mg)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Templeton 2010 (200 mg)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Treatment - Itraconazole_Midazolam - Templeton 2010 (400 mg)/"
+    },
+    {
+      "Project": "Itraconazole-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Olkkola 1996 (iv, day 4)",
+      "Path": "Itraconazole-Midazolam-DDI/DDI Control - Midazolam - Olkkola 1996 (iv, day 4)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Backman 1996",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Backman 1996/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Backman 1998",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Backman 1998/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Backman 1996/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Chung 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Chung 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Chung 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Eap 2004/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Eap 2004 (0.075 mg)"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Eap 2004 (7.5 mg)"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gorski 2003 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gorski 2003 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gorski 2003 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gorski 2003 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gurley 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gurley 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Gurley 2008",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Gurley 2008/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gurley 2008/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Gurley 2006/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2004/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2004 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2004 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Link 2008 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Link 2008 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Link 2008 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Link 2008 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Phimmasone 2001/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Phimmasone 2001/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Reitman 2011/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Szalat 2007/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Szalat 2007",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Szalat 2007/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 5 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 10 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 25 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 2011 (RIF @ 75 mg)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2011 (iv)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 2011 (po)/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Control - Midazolam - Kharasch 1997",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Control - Midazolam - Kharasch 1997/"
+    },
+    {
+      "Project": "Rifampicin-Midazolam-DDI",
+      "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
+      "Path": "Rifampicin-Midazolam-DDI/DDI Treatment - Rifampicin_Midazolam - Kharasch 1997/"
+    }
+  ],
+  "ObservedDataSets": [
+    {
+      "Id": "Bornemann 1986 - 1 h after a meal - Midazolam - PO - 15 mg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Bornemann 1986 - 1 h after a meal - Midazolam - PO - 15 mg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Olkkola 1993 - po Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1993 - po Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Allonen 1981 - oral - Midazolam - PO - 15 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Allonen 1981 - oral - Midazolam - PO - 15 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Allonen 1981 - iv - Midazolam - IV - 0.075 mg/kg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Allonen 1981 - iv - Midazolam - IV - 0.075 mg_kg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Backman 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Backman 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Chung 2006 - Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg/kg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Chung 2006 - Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg_kg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Gorski 1998 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=16)",
+      "Path": "ObservedData/Gorski 1998 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gorski 1998 - po with Perpetrator (Clarithromycin) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=16)",
+      "Path": "ObservedData/Gorski 1998 - po with Perpetrator (Clarithromycin) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gorski 1998 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=16)",
+      "Path": "ObservedData/Gorski 1998 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gorski 1998 - iv with Perpetrator (Clarithromycin) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=16)",
+      "Path": "ObservedData/Gorski 1998 - iv with Perpetrator (Clarithromycin) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gorski 2003 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - iv - f, 136kg, 36y (obese female) - Midazolam - IV - 5 mg - Plasma - typical (n=10)",
+      "Path": "ObservedData/Greenblat 1984 - iv - f, 136kg, 36y (obese female) - Midazolam - IV - 5 mg - Plasma - typical (n=10).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - iv - f, 61kg, 37y (normal female) - Midazolam - IV - 5 mg - Plasma - typical (n=10)",
+      "Path": "ObservedData/Greenblat 1984 - iv - f, 61kg, 37y (normal female) - Midazolam - IV - 5 mg - Plasma - typical (n=10).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - iv - m, 70kg, 32y (young male) - Midazolam - IV - 5 mg - Plasma - typical (n=10)",
+      "Path": "ObservedData/Greenblat 1984 - iv - m, 70kg, 32y (young male) - Midazolam - IV - 5 mg - Plasma - typical (n=10).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - iv - m, 80kg, 70y (elderly male) - Midazolam - IV - 5 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Greenblat 1984 - iv - m, 80kg, 70y (elderly male) - Midazolam - IV - 5 mg - Plasma - typical (n=9).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - po - f, 136kg, 36y (obese female) - Midazolam - PO - 10 mg - Plasma - typical (n=10)",
+      "Path": "ObservedData/Greenblat 1984 - po - f, 136kg, 36y (obese female) - Midazolam - PO - 10 mg - Plasma - typical (n=10).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - po - f, 61kg, 37y (normal female) - Midazolam - PO - 10 mg - Plasma - typical (n=10)",
+      "Path": "ObservedData/Greenblat 1984 - po - f, 61kg, 37y (normal female) - Midazolam - PO - 10 mg - Plasma - typical (n=10).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - po - m, 70kg, 32y (young male) - Midazolam - PO - 10 mg - Plasma - typical (n=10)",
+      "Path": "ObservedData/Greenblat 1984 - po - m, 70kg, 32y (young male) - Midazolam - PO - 10 mg - Plasma - typical (n=10).csv"
+    },
+    {
+      "Id": "Greenblat 1984 - po - m, 80kg, 70y (elderly male) - Midazolam - PO - 10 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Greenblat 1984 - po - m, 80kg, 70y (elderly male) - Midazolam - PO - 10 mg - Plasma - typical (n=9).csv"
+    },
+    {
+      "Id": "Greenblat 2003 - Control (Perpetrator Placebo) - Midazolam - PO - 6 mg - Plasma - agg. (n=25)",
+      "Path": "ObservedData/Greenblat 2003 - Control (Perpetrator Placebo) - Midazolam - PO - 6 mg - Plasma - agg. (n=25).csv"
+    },
+    {
+      "Id": "Greenblat 2003 - with Perpetrator (GFJ) - Midazolam - PO - 6 mg - Plasma - agg. (n=25)",
+      "Path": "ObservedData/Greenblat 2003 - with Perpetrator (GFJ) - Midazolam - PO - 6 mg - Plasma - agg. (n=25).csv"
+    },
+    {
+      "Id": "Gurley 2006 - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2006 - Control pre-Clarithromycin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - Control pre-Clarithromycin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2006 - Control pre-Black cohosh (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - Control pre-Black cohosh (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2006 - Control pre-Milk thistle (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - Control pre-Milk thistle (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2008a - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gurley 2008a - Control pre-Clarithromycin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - Control pre-Clarithromycin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gurley 2008a - Control pre-Goldenseal (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - Control pre-Goldenseal (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gurley 2008a - Control pre-Kava kava (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - Control pre-Kava kava (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Heizmann 1983 - iv 0.15 mg/kg - Indiv. CH.B. - Midazolam - IV - 0.15 mg/kg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - iv 0.15 mg_kg - Indiv. CH.B. - Midazolam - IV - 0.15 mg_kg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - iv 0.15 mg/kg - Indiv. K.M. - Midazolam - IV - 0.15 mg/kg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - iv 0.15 mg_kg - Indiv. K.M. - Midazolam - IV - 0.15 mg_kg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - iv 0.15 mg/kg - Indiv. E.Sch. - Midazolam - IV - 0.15 mg/kg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - iv 0.15 mg_kg - Indiv. E.Sch. - Midazolam - IV - 0.15 mg_kg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - iv 0.15 mg/kg - Indiv. R.H. - Midazolam - IV - 0.15 mg/kg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - iv 0.15 mg_kg - Indiv. R.H. - Midazolam - IV - 0.15 mg_kg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - iv 0.15 mg/kg - Indiv. A.St. - Midazolam - IV - 0.15 mg/kg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - iv 0.15 mg_kg - Indiv. A.St. - Midazolam - IV - 0.15 mg_kg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - iv 0.15 mg/kg - Indiv. O.A. - Midazolam - IV - 0.15 mg/kg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - iv 0.15 mg_kg - Indiv. O.A. - Midazolam - IV - 0.15 mg_kg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 10 mg - Indiv. K.M. - Midazolam - PO - 10 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 10 mg - Indiv. K.M. - Midazolam - PO - 10 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 10 mg - Indiv. O.A. - Midazolam - PO - 10 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 10 mg - Indiv. O.A. - Midazolam - PO - 10 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 10 mg - Indiv. R.H. - Midazolam - PO - 10 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 10 mg - Indiv. R.H. - Midazolam - PO - 10 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 20 mg - Indiv. A.St. - Midazolam - PO - 20 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 20 mg - Indiv. A.St. - Midazolam - PO - 20 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 20 mg - Indiv. CH.B. - Midazolam - PO - 20 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 20 mg - Indiv. CH.B. - Midazolam - PO - 20 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 20 mg - Indiv. E.Sch. - Midazolam - PO - 20 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 20 mg - Indiv. E.Sch. - Midazolam - PO - 20 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 20 mg - Indiv. K.M. - Midazolam - PO - 20 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 20 mg - Indiv. K.M. - Midazolam - PO - 20 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 20 mg - Indiv. O.A. - Midazolam - PO - 20 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 20 mg - Indiv. O.A. - Midazolam - PO - 20 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 20 mg - Indiv. R.H. - Midazolam - PO - 20 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 20 mg - Indiv. R.H. - Midazolam - PO - 20 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 40 mg - Indiv. A.St. - Midazolam - PO - 40 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 40 mg - Indiv. A.St. - Midazolam - PO - 40 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 40 mg - Indiv. CH.B. - Midazolam - PO - 40 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 40 mg - Indiv. CH.B. - Midazolam - PO - 40 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Heizmann 1983 - po 40 mg - Indiv. E.Sch. - Midazolam - PO - 40 mg - Plasma - indiv.",
+      "Path": "ObservedData/Heizmann 1983 - po 40 mg - Indiv. E.Sch. - Midazolam - PO - 40 mg - Plasma - indiv..csv"
+    },
+    {
+      "Id": "Hohmann 2015 - iv 0.001 mg - Midazolam - IV - 0.001 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Hohmann 2015 - iv 0.001 mg - Midazolam - IV - 0.001 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Hohmann 2015 - iv 1 mg - Midazolam - IV - 1 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Hohmann 2015 - iv 1 mg - Midazolam - IV - 1 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Hohmann 2015 - po 0.003 mg - Midazolam - PO - 0.003 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Hohmann 2015 - po 0.003 mg - Midazolam - PO - 0.003 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Hohmann 2015 - po 3 mg - Midazolam - PO - 3 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Hohmann 2015 - po 3 mg - Midazolam - PO - 3 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Hyland 2009 - 3-mg oral dose (as fraction of dose) - Midazolam-N-Glucuronide - PO - 3 mg - Urine - agg. (n=6)",
+      "Path": "ObservedData/Hyland 2009 - 3-mg oral dose (as fraction of dose) - Midazolam-N-Glucuronide - PO - 3 mg - Urine - agg. (n=6).csv"
+    },
+    {
+      "Id": "Hyland 2009 - 1-mg i.v. dose (as fraction of dose) - Midazolam-N-Glucuronide - IV - 1 mg - Urine - agg. (n=6)",
+      "Path": "ObservedData/Hyland 2009 - 1-mg i.v. dose (as fraction of dose) - Midazolam-N-Glucuronide - IV - 1 mg - Urine - agg. (n=6).csv"
+    },
+    {
+      "Id": "Kharasch 1997 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Kharasch 1997 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - typical (n=9).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - po #1 Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - po #1 Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Link 2008 - iv Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - iv Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Majumdar 2007 - po Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Majumdar 2007 - po Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Majumdar 2007 - po with Perpetrator (Aprepitant) - Midazolam - IV - 2 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Majumdar 2007 - po with Perpetrator (Aprepitant) - Midazolam - IV - 2 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Okudaira 2007 - EM 0 Control (Perpetrator Placebo) - Midazolam - PO - 2.5 (actually 5) mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Okudaira 2007 - EM 0 Control (Perpetrator Placebo) - Midazolam - PO - 2.5 (actually 5) mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1993 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Olkkola 1993 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Phimmasone 2001 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Phimmasone 2001 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 4 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 4 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Saari 2006 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Saari 2006 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Saari 2006 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Saari 2006 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Schwagmeier 1998 - iv administration - Midazolam - IV - 5 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Schwagmeier 1998 - iv administration - Midazolam - IV - 5 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Smith 1981 - iv 5 mg - Midazolam - IV - 5 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Smith 1981 - iv 5 mg - Midazolam - IV - 5 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Smith 1981 - oral solution 10 mg - Midazolam - PO - 10 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Smith 1981 - oral solution 10 mg - Midazolam - PO - 10 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Smith 1981 - oral tablet 10 mg - Midazolam - PO - 10 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Smith 1981 - oral tablet 10 mg - Midazolam - PO - 10 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Szalat 2007 - Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=3)",
+      "Path": "ObservedData/Szalat 2007 - Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=3).csv"
+    },
+    {
+      "Id": "Templeton 2010 - Control (Perpetrator Placebo) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - Control (Perpetrator Placebo) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Tham 2006 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Tham 2006 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Thummel 1996 - iv - female - Midazolam - IV - 1 mg - Urine - agg. (n=10)",
+      "Path": "ObservedData/Thummel 1996 - iv - female - Midazolam - IV - 1 mg - Urine - agg. (n=10).csv"
+    },
+    {
+      "Id": "Thummel 1996 - iv - male - Midazolam - IV - 1 mg - Urine - agg. (n=10)",
+      "Path": "ObservedData/Thummel 1996 - iv - male - Midazolam - IV - 1 mg - Urine - agg. (n=10).csv"
+    },
+    {
+      "Id": "Thummel 1996 - po - female - Midazolam - PO - 2 mg - Urine - agg. (n=10)",
+      "Path": "ObservedData/Thummel 1996 - po - female - Midazolam - PO - 2 mg - Urine - agg. (n=10).csv"
+    },
+    {
+      "Id": "Thummel 1996 - po - male - Midazolam - PO - 2 mg - Urine - agg. (n=10)",
+      "Path": "ObservedData/Thummel 1996 - po - male - Midazolam - PO - 2 mg - Urine - agg. (n=10).csv"
+    },
+    {
+      "Id": "Yeates 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Yeates 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Zimmermann 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Zimmermann 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 6 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 6 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 4 (iv) Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 4 (iv) Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 1 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 1 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Ahonen 1995 - Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Ahonen 1995 - Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Eap 2004 - 7.5 mg Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=13)",
+      "Path": "ObservedData/Eap 2004 - 7.5 mg Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=13).csv"
+    },
+    {
+      "Id": "Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21)",
+      "Path": "ObservedData/Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21).csv"
+    },
+    {
+      "Id": "Swart 2002 - day 5 Control (Perpetrator Placebo) - Midazolam - IV - 0.075 mg/kg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Swart 2002 - day 5 Control (Perpetrator Placebo) - Midazolam - IV - 0.075 mg_kg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Bornemann 1986 - 1 h before a meal - Midazolam - PO - 15 mg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Bornemann 1986 - 1 h before a meal - Midazolam - PO - 15 mg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Bornemann 1986 - fasting condition - Midazolam - PO - 15 mg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Bornemann 1986 - fasting condition - Midazolam - PO - 15 mg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Bornemann 1986 - with a meal - Midazolam - PO - 15 mg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Bornemann 1986 - with a meal - Midazolam - PO - 15 mg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Darwish 2008 - iv - Midazolam - IV - 2 mg - Plasma - agg. (n=24)",
+      "Path": "ObservedData/Darwish 2008 - iv - Midazolam - IV - 2 mg - Plasma - agg. (n=24).csv"
+    },
+    {
+      "Id": "Darwish 2008 - oral - Midazolam - PO - 5 mg - Plasma - agg. (n=24)",
+      "Path": "ObservedData/Darwish 2008 - oral - Midazolam - PO - 5 mg - Plasma - agg. (n=24).csv"
+    },
+    {
+      "Id": "Barone 1993 - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Barone 1993 - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Barone 1993 - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Barone 1993 - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Barone 1993 - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Barone 1993 - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Barone 1993 - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Barone 1993 - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Barone 1993 - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Barone 1993 - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Barone 1993 - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28)",
+      "Path": "ObservedData/Barone 1993 - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=28).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 1 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 1 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 15 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 15 fasted - Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 15 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 15 fasted - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 1 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 1 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 15 fed - Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998a - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27)",
+      "Path": "ObservedData/Barone 1998a - day 15 fed - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=27).csv"
+    },
+    {
+      "Id": "Barone 1998b - Solution - Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
+      "Path": "ObservedData/Barone 1998b - Solution - Itraconazole - PO - 200 mg - Plasma - agg. (n=30).csv"
+    },
+    {
+      "Id": "Barone 1998b - Solution - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
+      "Path": "ObservedData/Barone 1998b - Solution - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30).csv"
+    },
+    {
+      "Id": "Barone 1998b - F05 Capsule - Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
+      "Path": "ObservedData/Barone 1998b - F05 Capsule - Itraconazole - PO - 200 mg - Plasma - agg. (n=30).csv"
+    },
+    {
+      "Id": "Barone 1998b - F05 Capsule - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30)",
+      "Path": "ObservedData/Barone 1998b - F05 Capsule - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=30).csv"
+    },
+    {
+      "Id": "Hardin 1988 - A 100 mg OD (day 1) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - A 100 mg OD (day 1) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - A 100 mg OD (day 7-15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - A 100 mg OD (day 7-15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - A 100 mg OD (day 15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - A 100 mg OD (day 15) - Itraconazole - PO - 100 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - B 200 mg OD (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - B 200 mg OD (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - B 200 mg OD (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - B 200 mg OD (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - B 200 mg OD (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - B 200 mg OD (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - C 200 mg BID (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - C 200 mg BID (day 1) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - C 200 mg BID (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - C 200 mg BID (day 7-15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Hardin 1988 - C 200 mg BID (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5)",
+      "Path": "ObservedData/Hardin 1988 - C 200 mg BID (day 15) - Itraconazole - PO - 200 mg - Plasma - agg. (n=5).csv"
+    },
+    {
+      "Id": "Kivistö 1997 - with Perpetrator (Itraconazole) - Itraconazole - PO - 100 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Kivistö 1997 - with Perpetrator (Itraconazole) - Itraconazole - PO - 100 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Templeton 2008 - ITZ day 1 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - ITZ day 1 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - ITZ day 7 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - ITZ day 7 - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - OH-ITZ day 1 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - OH-ITZ day 1 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - OH-ITZ day 7 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - OH-ITZ day 7 - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - keto-ITZ day 1 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - keto-ITZ day 1 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - keto-ITZ day 7 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - keto-ITZ day 7 - Keto-Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - ND-OH-ITZ day 1 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - ND-OH-ITZ day 1 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2008 - ND-OH-ITZ day 7 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2008 - ND-OH-ITZ day 7 - N-desalkyl-Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Van de Velde 1996 - Fasting ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Van de Velde 1996 - Fasting ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Van de Velde 1996 - Fasting OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Van de Velde 1996 - Fasting OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Van de Velde 1996 - Fed ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Van de Velde 1996 - Fed ITZ - Itraconazole - PO - 100 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Van de Velde 1996 - Fed OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Van de Velde 1996 - Fed OH-ITZ - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Van Peer 1989 - 100 mg Solution, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Van Peer 1989 - 100 mg Solution, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Van Peer 1989 - 100 mg Capsules, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Van Peer 1989 - 100 mg Capsules, fasting - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Van Peer 1989 - 100 mg Capsules, with food - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Van Peer 1989 - 100 mg Capsules, with food - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Van Peer 1989 - 100 mg Capsules, with food, 15 days MD - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Van Peer 1989 - 100 mg Capsules, with food, 15 days MD - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Heykants 1989 - iv 100 mg SD - Itraconazole - IV - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Heykants 1989 - iv 100 mg SD - Itraconazole - IV - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Heykants 1989 - po 100 mg SD fed - Itraconazole - PO - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Heykants 1989 - po 100 mg SD fed - Itraconazole - PO - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Heykants 1989 - po 100 mg SD (metabolite screening) - Itraconazole - PO - 100 mg - Plasma - agg. (n=24)",
+      "Path": "ObservedData/Heykants 1989 - po 100 mg SD (metabolite screening) - Itraconazole - PO - 100 mg - Plasma - agg. (n=24).csv"
+    },
+    {
+      "Id": "Heykants 1989 - po 100 mg SD (metabolite screening) - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=24)",
+      "Path": "ObservedData/Heykants 1989 - po 100 mg SD (metabolite screening) - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=24).csv"
+    },
+    {
+      "Id": "Heykants 1989 - po 100 mg MD OD - Itraconazole - PO - 100 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Heykants 1989 - po 100 mg MD OD - Itraconazole - PO - 100 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Heykants 1989 - po 100 mg MD OD - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Heykants 1989 - po 100 mg MD OD - Hydroxy-Itraconazole - PO - 100 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Miura 2010 - po 100 mg MD Japanese - Itraconazole - PO - 200 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Miura 2010 - po 100 mg MD Japanese - Itraconazole - PO - 200 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Miura 2010 - po 100 mg MD Japanese - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Miura 2010 - po 100 mg MD Japanese - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Gubbins 2004 - po 200 mg solution with water - Itraconazole - PO - 200 mg - Plasma - agg. (n=20)",
+      "Path": "ObservedData/Gubbins 2004 - po 200 mg solution with water - Itraconazole - PO - 200 mg - Plasma - agg. (n=20).csv"
+    },
+    {
+      "Id": "Gubbins 2004 - po 200 mg solution with water - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=20)",
+      "Path": "ObservedData/Gubbins 2004 - po 200 mg solution with water - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=20).csv"
+    },
+    {
+      "Id": "Gubbins 2007 - po 200 mg solution female with water - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Gubbins 2007 - po 200 mg solution female with water - Itraconazole - PO - 200 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Gubbins 2007 - po 200 mg solution female with water - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Gubbins 2007 - po 200 mg solution female with water - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Gubbins 2007 - po 200 mg solution male with water - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Gubbins 2007 - po 200 mg solution male with water - Itraconazole - PO - 200 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Gubbins 2007 - po 200 mg solution male with water - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Gubbins 2007 - po 200 mg solution male with water - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Uno 2006 - day 1 (Japanese) - Itraconazole - PO - 200 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Uno 2006 - day 1 (Japanese) - Itraconazole - PO - 200 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Uno 2006 - day 1 (Japanese) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Uno 2006 - day 1 (Japanese) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Uno 2006 - day 6 (Japanese) - Itraconazole - PO - 200 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Uno 2006 - day 6 (Japanese) - Itraconazole - PO - 200 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Uno 2006 - day 6 (Japanese) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Uno 2006 - day 6 (Japanese) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Bae 2011 - po 200 mg capsule with water (Korean) - Itraconazole - PO - 200 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Bae 2011 - po 200 mg capsule with water (Korean) - Itraconazole - PO - 200 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Bae 2011 - po 200 mg capsule with water (Korean) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Bae 2011 - po 200 mg capsule with water (Korean) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Bae 2011 - po 200 mg capsule with cola (Korean) - Itraconazole - PO - 200 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Bae 2011 - po 200 mg capsule with cola (Korean) - Itraconazole - PO - 200 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Bae 2011 - po 200 mg capsule with cola (Korean) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Bae 2011 - po 200 mg capsule with cola (Korean) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Bae 2011 - po 200 mg capsule with vit. C (Korean) - Itraconazole - PO - 200 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Bae 2011 - po 200 mg capsule with vit. C (Korean) - Itraconazole - PO - 200 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Bae 2011 - po 200 mg capsule with vit. C (Korean) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Bae 2011 - po 200 mg capsule with vit. C (Korean) - Hydroxy-Itraconazole - PO - 200 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_A 50 mg - Itraconazole - IV - 50 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Mouton 2006 - SAD_A 50 mg - Itraconazole - IV - 50 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_B 100 mg - Itraconazole - IV - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Mouton 2006 - SAD_B 100 mg - Itraconazole - IV - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_A 200 mg - Itraconazole - IV - 200 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Mouton 2006 - SAD_A 200 mg - Itraconazole - IV - 200 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_B 300 mg - Itraconazole - IV - 300 mg - Plasma - agg. (n=2)",
+      "Path": "ObservedData/Mouton 2006 - SAD_B 300 mg - Itraconazole - IV - 300 mg - Plasma - agg. (n=2).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_A 100 mg - Itraconazole - IV - 100 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_A 100 mg - Itraconazole - IV - 100 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_B 200 mg - Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_B 200 mg - Itraconazole - IV - 200 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_C 300 mg - Itraconazole - IV - 300 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_C 300 mg - Itraconazole - IV - 300 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Itraconazole - IV - 200 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_A 50 mg - Hydroxy-Itraconazole - IV - 50 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Mouton 2006 - SAD_A 50 mg - Hydroxy-Itraconazole - IV - 50 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_B 100 mg - Hydroxy-Itraconazole - IV - 100 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Mouton 2006 - SAD_B 100 mg - Hydroxy-Itraconazole - IV - 100 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_A 200 mg - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Mouton 2006 - SAD_A 200 mg - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Mouton 2006 - SAD_B 300 mg - Hydroxy-Itraconazole - IV - 300 mg - Plasma - agg. (n=2)",
+      "Path": "ObservedData/Mouton 2006 - SAD_B 300 mg - Hydroxy-Itraconazole - IV - 300 mg - Plasma - agg. (n=2).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_A 100 mg - Hydroxy-Itraconazole - IV - 100 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_A 100 mg - Hydroxy-Itraconazole - IV - 100 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_B 200 mg - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_B 200 mg - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_C 300 mg - Hydroxy-Itraconazole - IV - 300 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_C 300 mg - Hydroxy-Itraconazole - IV - 300 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_D 200 mg (HPBCD) - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_A 100 mg (terminal phase only) - Itraconazole - IV - 100 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_A 100 mg (terminal phase only) - Itraconazole - IV - 100 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_B 200 mg (terminal phase only) - Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_B 200 mg (terminal phase only) - Itraconazole - IV - 200 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_C 300 mg (terminal phase only) - Itraconazole - IV - 300 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_C 300 mg (terminal phase only) - Itraconazole - IV - 300 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_A 100 mg (terminal phase only) - Hydroxy-Itraconazole - IV - 100 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_A 100 mg (terminal phase only) - Hydroxy-Itraconazole - IV - 100 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_B 200 mg (terminal phase only) - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_B 200 mg (terminal phase only) - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Mouton 2006 - MAD_m_C 300 mg (terminal phase only) - Hydroxy-Itraconazole - IV - 300 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Mouton 2006 - MAD_m_C 300 mg (terminal phase only) - Hydroxy-Itraconazole - IV - 300 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Zhou 1998 - IV 200 mg OD - Itraconazole - IV - 200 mg - Plasma - agg. (n=29)",
+      "Path": "ObservedData/Zhou 1998 - IV 200 mg OD - Itraconazole - IV - 200 mg - Plasma - agg. (n=29).csv"
+    },
+    {
+      "Id": "Zhou 1998 - IV 200 mg OD - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=29)",
+      "Path": "ObservedData/Zhou 1998 - IV 200 mg OD - Hydroxy-Itraconazole - IV - 200 mg - Plasma - agg. (n=29).csv"
+    },
+    {
+      "Id": "Abdel-Rahman 2007 - 2-6y - Itraconazole - IV - 2.5 mg/kg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Abdel-Rahman 2007 - 2-6y - Itraconazole - IV - 2.5 mg_kg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Abdel-Rahman 2007 - 6-12y - Itraconazole - IV - 2.5 mg/kg - Plasma - agg. (n=7)",
+      "Path": "ObservedData/Abdel-Rahman 2007 - 6-12y - Itraconazole - IV - 2.5 mg_kg - Plasma - agg. (n=7).csv"
+    },
+    {
+      "Id": "Abdel-Rahman 2007 - 6m-2y - Itraconazole - IV - 2.5 mg/kg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Abdel-Rahman 2007 - 6m-2y - Itraconazole - IV - 2.5 mg_kg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Abdel-Rahman 2007 - 12-16y - Itraconazole - IV - 2.5 mg/kg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Abdel-Rahman 2007 - 12-16y - Itraconazole - IV - 2.5 mg_kg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Peloquin 1997 - 600 mg - Rifampicin - PO - 600 mg - Plasma - agg. (n=24)",
+      "Path": "ObservedData/Peloquin 1997 - 600 mg - Rifampicin - PO - 600 mg - Plasma - agg. (n=24).csv"
+    },
+    {
+      "Id": "Nitti 1977 - 600 mg - Rifampicin - IV - 600 mg - Urine - agg. (n=6)",
+      "Path": "ObservedData/Nitti 1977 - 600 mg - Rifampicin - IV - 600 mg - Urine - agg. (n=6).csv"
+    },
+    {
+      "Id": "Nitti 1977 - 450 mg - Rifampicin - IV - 450 mg - Urine - agg. (n=3)",
+      "Path": "ObservedData/Nitti 1977 - 450 mg - Rifampicin - IV - 450 mg - Urine - agg. (n=3).csv"
+    },
+    {
+      "Id": "Nitti 1977 - 300 mg - Rifampicin - IV - 300 mg - Urine - agg. (n=2)",
+      "Path": "ObservedData/Nitti 1977 - 300 mg - Rifampicin - IV - 300 mg - Urine - agg. (n=2).csv"
+    },
+    {
+      "Id": "Nitti 1977 - 600 mg - Rifampicin - IV - 600 mg - Serum - agg. (n=6)",
+      "Path": "ObservedData/Nitti 1977 - 600 mg - Rifampicin - IV - 600 mg - Serum - agg. (n=6).csv"
+    },
+    {
+      "Id": "Nitti 1977 - 450 mg - Rifampicin - IV - 450 mg - Serum - agg. (n=3)",
+      "Path": "ObservedData/Nitti 1977 - 450 mg - Rifampicin - IV - 450 mg - Serum - agg. (n=3).csv"
+    },
+    {
+      "Id": "Nitti 1977 - 300 mg - Rifampicin - IV - 300 mg - Serum - agg. (n=2)",
+      "Path": "ObservedData/Nitti 1977 - 300 mg - Rifampicin - IV - 300 mg - Serum - agg. (n=2).csv"
+    },
+    {
+      "Id": "Loos 1985 - iv day 22 (Patient 4) - Rifampicin - IV/PO - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Loos 1985 - iv day 22 (Patient 4) - Rifampicin - IV_PO - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Loos 1985 - iv day 8 (Patient 4) - Rifampicin - IV/PO - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Loos 1985 - iv day 8 (Patient 4) - Rifampicin - IV_PO - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Loos 1985 - iv day 1 (Patient 4) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Loos 1985 - iv day 1 (Patient 4) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Loos 1985 - oral day 23 (Patient 4) - Rifampicin - IV/PO - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Loos 1985 - oral day 23 (Patient 4) - Rifampicin - IV_PO - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Loos 1985 - oral day 9 (Patient 4) - Rifampicin - IV/PO - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Loos 1985 - oral day 9 (Patient 4) - Rifampicin - IV_PO - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Loos 1985 - oral day 2 (Patient 4) - Rifampicin - IV/PO - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Loos 1985 - oral day 2 (Patient 4) - Rifampicin - IV_PO - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Eon Labs Manufacturing, Inc. 1997 - 2X300mg Rifadine Tab - Rifampicin - PO - 600 mg - Plasma - agg. (n=36)",
+      "Path": "ObservedData/Eon Labs Manufacturing, Inc. 1997 - 2X300mg Rifadine Tab - Rifampicin - PO - 600 mg - Plasma - agg. (n=36).csv"
+    },
+    {
+      "Id": "Eon Labs Manufacturing, Inc. 1997 - 2X300mg Tab (Eon) - Rifampicin - PO - 600 mg - Plasma - agg. (n=36)",
+      "Path": "ObservedData/Eon Labs Manufacturing, Inc. 1997 - 2X300mg Tab (Eon) - Rifampicin - PO - 600 mg - Plasma - agg. (n=36).csv"
+    },
+    {
+      "Id": "Chouchane 1995 - Rifampicin Generic - Rifampicin - PO - 300 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Chouchane 1995 - Rifampicin Generic - Rifampicin - PO - 300 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Chouchane 1995 - Rimactan - Rifampicin - PO - 300 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Chouchane 1995 - Rimactan - Rifampicin - PO - 300 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Burger 2006 - Rifampin alone - Rifampicin -  - 600 mg - Plasma - agg. (n=14)",
+      "Path": "ObservedData/Burger 2006 - Rifampin alone - Rifampicin -  - 600 mg - Plasma - agg. (n=14).csv"
+    },
+    {
+      "Id": "Blume 1989 - 600 mg REFERENZ - Rifampicin - PO - 600 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Blume 1989 - 600 mg REFERENZ - Rifampicin - PO - 600 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Blume 1989 - 450 mg REFERENZ - Rifampicin - PO - 450 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Blume 1989 - 450 mg REFERENZ - Rifampicin - PO - 450 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Baneyx 2014 - Day 4 - 600 mg po MD - Rifampicin - PO - 600 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Baneyx 2014 - Day 4 - 600 mg po MD - Rifampicin - PO - 600 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 18 (1200 mg, 1 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 18 (1200 mg, 1 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 17 (1200 mg, 1 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 17 (1200 mg, 1 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 16 (1200 mg, 2 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 16 (1200 mg, 2 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 15 (1200 mg, 2 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 15 (1200 mg, 2 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 14 (1200 mg, 3 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 14 (1200 mg, 3 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 13 (1200 mg, 3 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 13 (1200 mg, 3 h infusion) - Rifampicin - IV - 1200 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 12 (900 mg, 1 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 12 (900 mg, 1 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 11 (900 mg, 1 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 11 (900 mg, 1 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 10 (900 mg, 2 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 10 (900 mg, 2 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 9 (900 mg, 2 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 9 (900 mg, 2 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 8 (900 mg, 3 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 8 (900 mg, 3 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 7 (900 mg, 3 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 7 (900 mg, 3 h infusion) - Rifampicin - IV - 900 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 6 (600 mg, 1 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 6 (600 mg, 1 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 5 (600 mg, 1 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 5 (600 mg, 1 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 4 (600 mg, 2 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 4 (600 mg, 2 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 3 (600 mg, 2 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 3 (600 mg, 2 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 2 (600 mg, 3 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 2 (600 mg, 3 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1984 - Individual 1 (600 mg, 3 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1984 - Individual 1 (600 mg, 3 h infusion) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - mean 600 mg MD - Rifampicin - IV - 600 mg - Urine - agg. (n=5)",
+      "Path": "ObservedData/Acocella 1977 - mean 600 mg MD - Rifampicin - IV - 600 mg - Urine - agg. (n=5).csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 14 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 14 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 13 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 13 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 12 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 12 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 11 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 11 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 10 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 10 (600 mg MD) - Rifampicin - IV - 600 mg - Urine - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - mean 600 mg MD - Rifampicin - IV - 600 mg - Serum - agg. (n=5)",
+      "Path": "ObservedData/Acocella 1977 - mean 600 mg MD - Rifampicin - IV - 600 mg - Serum - agg. (n=5).csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 14 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 14 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 13 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 13 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 11 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 11 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 10 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 10 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 9 (600 mg) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 9 (600 mg) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 8 (600 mg) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 8 (600 mg) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 7 (600 mg) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 7 (600 mg) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 6 (450 mg) - Rifampicin - IV - 450 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 6 (450 mg) - Rifampicin - IV - 450 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 5 (450 mg) - Rifampicin - IV - 450 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 5 (450 mg) - Rifampicin - IV - 450 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 4 (300 mg) - Rifampicin - IV - 300 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 4 (300 mg) - Rifampicin - IV - 300 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 3 (300 mg) - Rifampicin - IV - 300 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 3 (300 mg) - Rifampicin - IV - 300 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 2 (150 mg) - Rifampicin - IV - 150 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 2 (150 mg) - Rifampicin - IV - 150 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 1 (150 mg) - Rifampicin - IV - 150 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 1 (150 mg) - Rifampicin - IV - 150 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Acocella 1972b - patients with liver disease - Rifampicin - PO - 600 mg - Urine - agg. (n=7)",
+      "Path": "ObservedData/Acocella 1972b - patients with liver disease - Rifampicin - PO - 600 mg - Urine - agg. (n=7).csv"
+    },
+    {
+      "Id": "Acocella 1972b - normal subjects - Rifampicin - PO - 600 mg - Urine - agg. (n=6)",
+      "Path": "ObservedData/Acocella 1972b - normal subjects - Rifampicin - PO - 600 mg - Urine - agg. (n=6).csv"
+    },
+    {
+      "Id": "Acocella 1972b - patients with liver disease - Rifampicin - PO - 600 mg - Serum - agg. (n=7)",
+      "Path": "ObservedData/Acocella 1972b - patients with liver disease - Rifampicin - PO - 600 mg - Serum - agg. (n=7).csv"
+    },
+    {
+      "Id": "Acocella 1972b - normal subjects - Rifampicin - PO - 600 mg - Serum - agg. (n=6)",
+      "Path": "ObservedData/Acocella 1972b - normal subjects - Rifampicin - PO - 600 mg - Serum - agg. (n=6).csv"
+    },
+    {
+      "Id": "Acocella 1972a - day 1 - Rifampicin - PO - 450 mg - Urine - agg. (n=5)",
+      "Path": "ObservedData/Acocella 1972a - day 1 - Rifampicin - PO - 450 mg - Urine - agg. (n=5).csv"
+    },
+    {
+      "Id": "Acocella 1972a - day 1 - Rifampicin - PO - 450 mg - Bile - agg. (n=5)",
+      "Path": "ObservedData/Acocella 1972a - day 1 - Rifampicin - PO - 450 mg - Bile - agg. (n=5).csv"
+    },
+    {
+      "Id": "Acocella 1972a - day 7 - Rifampicin - PO - 450 mg - Serum - agg. (n=5)",
+      "Path": "ObservedData/Acocella 1972a - day 7 - Rifampicin - PO - 450 mg - Serum - agg. (n=5).csv"
+    },
+    {
+      "Id": "Acocella 1972a - day 1 - Rifampicin - PO - 450 mg - Serum - agg. (n=5)",
+      "Path": "ObservedData/Acocella 1972a - day 1 - Rifampicin - PO - 450 mg - Serum - agg. (n=5).csv"
+    },
+    {
+      "Id": "Acocella 1977 - Subject 12 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv.",
+      "Path": "ObservedData/Acocella 1977 - Subject 12 (600 mg MD) - Rifampicin - IV - 600 mg - Serum - indiv..csv"
+    },
+    {
+      "Id": "Peloquin 1999 - fast1 - Rifampicin - PO - 600 mg - Serum - agg. (n=14)",
+      "Path": "ObservedData/Peloquin 1999 - fast1 - Rifampicin - PO - 600 mg - Serum - agg. (n=14).csv"
+    },
+    {
+      "Id": "Peloquin 1999 - fast2 - Rifampicin - PO - 600 mg - Serum - agg. (n=14)",
+      "Path": "ObservedData/Peloquin 1999 - fast2 - Rifampicin - PO - 600 mg - Serum - agg. (n=14).csv"
+    },
+    {
+      "Id": "Peloquin 1999 - antacid - Rifampicin - PO - 600 mg - Serum - agg. (n=14)",
+      "Path": "ObservedData/Peloquin 1999 - antacid - Rifampicin - PO - 600 mg - Serum - agg. (n=14).csv"
+    },
+    {
+      "Id": "Peloquin 1999 - fed - Rifampicin - PO - 600 mg - Serum - agg. (n=14)",
+      "Path": "ObservedData/Peloquin 1999 - fed - Rifampicin - PO - 600 mg - Serum - agg. (n=14).csv"
+    },
+    {
+      "Id": "sanofi-aventis U.S. LLC. 2013 - 300 mg - Rifampicin - IV - 300 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/sanofi-aventis U.S. LLC. 2013 - 300 mg - Rifampicin - IV - 300 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "sanofi-aventis U.S. LLC. 2013 - 600 mg - Rifampicin - IV - 600 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/sanofi-aventis U.S. LLC. 2013 - 600 mg - Rifampicin - IV - 600 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Stone 2004 - Day 14 of Rifampin alone - Rifampicin - PO - 600 mg - Plasma - agg. (n=26)",
+      "Path": "ObservedData/Stone 2004 - Day 14 of Rifampin alone - Rifampicin - PO - 600 mg - Plasma - agg. (n=26).csv"
+    },
+    {
+      "Id": "Baneyx 2014 - Day 7 - 600 mg po MD - Rifampicin - PO - 600 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Baneyx 2014 - Day 7 - 600 mg po MD - Rifampicin - PO - 600 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Acocella 1985 - R alone - Rifampicin - PO - 10 mg/kg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Acocella 1985 - R alone - Rifampicin - PO - 10 mg_kg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 100 mg - Rifampicin - PO - 100 mg - Serum - agg. (n=6)",
+      "Path": "ObservedData/Furesz 1970 - 100 mg - Rifampicin - PO - 100 mg - Serum - agg. (n=6).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 150 mg - Rifampicin - PO - 150 mg - Serum - agg. (n=27)",
+      "Path": "ObservedData/Furesz 1970 - 150 mg - Rifampicin - PO - 150 mg - Serum - agg. (n=27).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 250 mg - Rifampicin - PO - 250 mg - Serum - agg. (n=10)",
+      "Path": "ObservedData/Furesz 1970 - 250 mg - Rifampicin - PO - 250 mg - Serum - agg. (n=10).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 300 mg - Rifampicin - PO - 300 mg - Serum - agg. (n=5)",
+      "Path": "ObservedData/Furesz 1970 - 300 mg - Rifampicin - PO - 300 mg - Serum - agg. (n=5).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13)",
+      "Path": "ObservedData/Furesz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 600 mg - Rifampicin - PO - 600 mg - Serum - agg. (n=12)",
+      "Path": "ObservedData/Furesz 1970 - 600 mg - Rifampicin - PO - 600 mg - Serum - agg. (n=12).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 750 mg - Rifampicin - PO - 750 mg - Serum - agg. (n=10)",
+      "Path": "ObservedData/Furesz 1970 - 750 mg - Rifampicin - PO - 750 mg - Serum - agg. (n=10).csv"
+    },
+    {
+      "Id": "Furesz 1970 - 900 mg - Rifampicin - PO - 900 mg - Serum - agg. (n=9)",
+      "Path": "ObservedData/Furesz 1970 - 900 mg - Rifampicin - PO - 900 mg - Serum - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase III (4 days after Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase III (4 days after Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase II (during Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase II (during Perpetrator (Itraconazole)) - Midazolam - PO - 15 (actually 7.5) mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1994 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Olkkola 1994 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 1 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 1 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 4 (iv) with Perpetrator (Itraconazole) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 4 (iv) with Perpetrator (Itraconazole) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 6 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 6 (po) with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Templeton 2010 - Control (Perpetrator Placebo) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - Control (Perpetrator Placebo) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2010 - with Perpetrator (Itraconazole @ 50 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - with Perpetrator (Itraconazole @ 50 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2010 - with Perpetrator (Itraconazole @ 200 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - with Perpetrator (Itraconazole @ 200 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Templeton 2010 - with Perpetrator (Itraconazole @ 400 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Templeton 2010 - with Perpetrator (Itraconazole @ 400 mg) - Midazolam - PO - 2 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 6 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 6 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 4 (iv) Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 4 (iv) Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Olkkola 1996 - day 1 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Olkkola 1996 - day 1 (po) Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Ahonen 1995 - Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Ahonen 1995 - Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Ahonen 1995 - with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Ahonen 1995 - with Perpetrator (Itraconazole) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Backman 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Backman 1996 - Control (Perpetrator Placebo) - Midazolam - PO - 15 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Backman 1996 - with Perpetrator (Rifampicin) - Midazolam - PO - 15 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Backman 1996 - with Perpetrator (Rifampicin) - Midazolam - PO - 15 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase I (Control (Perpetrator Placebo)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase IV (during Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase IV (during Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Backman 1998 - Phase V (4 days after Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9)",
+      "Path": "ObservedData/Backman 1998 - Phase V (4 days after Perpetrator (Rifampicin)) - Midazolam - PO - 15 mg - Plasma - agg. (n=9).csv"
+    },
+    {
+      "Id": "Chung 2006 - Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg/kg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Chung 2006 - Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg_kg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Chung 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg/kg - Plasma - agg. (n=18)",
+      "Path": "ObservedData/Chung 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg_kg - Plasma - agg. (n=18).csv"
+    },
+    {
+      "Id": "Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21)",
+      "Path": "ObservedData/Eap 2004 - 0.075 mg Control (Perpetrator Placebo) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=21).csv"
+    },
+    {
+      "Id": "Eap 2004 - 7.5 mg with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Eap 2004 - 7.5 mg with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Eap 2004 - 7.5 mg Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=13)",
+      "Path": "ObservedData/Eap 2004 - 7.5 mg Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=13).csv"
+    },
+    {
+      "Id": "Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=4)",
+      "Path": "ObservedData/Eap 2004 - 0.075 mg with Perpetrator (Rifampicin) - Midazolam - PO - 0.075 mg - Plasma - agg. (n=4).csv"
+    },
+    {
+      "Id": "Gorski 2003 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - po Control (Perpetrator Placebo) - Midazolam - PO - 4 mg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - po with Perpetrator (Rifampicin) - Midazolam - PO - 6 mg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - po with Perpetrator (Rifampicin) - Midazolam - PO - 6 mg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - iv Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gorski 2003 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg/kg - Whole Blood - agg. (n=52)",
+      "Path": "ObservedData/Gorski 2003 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg_kg - Whole Blood - agg. (n=52).csv"
+    },
+    {
+      "Id": "Gurley 2006 - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=19)",
+      "Path": "ObservedData/Gurley 2006 - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=19).csv"
+    },
+    {
+      "Id": "Gurley 2008a - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - Control pre-Rifampicin (Perpetrator Placebo) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Gurley 2008a - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=16)",
+      "Path": "ObservedData/Gurley 2008a - with Perpetrator (Rifampicin) - Midazolam - PO - 8 mg - Plasma - agg. (n=16).csv"
+    },
+    {
+      "Id": "Kharasch 1997 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Kharasch 1997 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - typical (n=9).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - po #1 Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - po #1 Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2004 - po #1 with Perpetrator (Rifampicin) - Midazolam - PO - 3 mg - Plasma - agg. (n=10)",
+      "Path": "ObservedData/Kharasch 2004 - po #1 with Perpetrator (Rifampicin) - Midazolam - PO - 3 mg - Plasma - agg. (n=10).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 5 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 5 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 10 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 10 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 25 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 25 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - iv with Perpetrator (Rifampicin @ 75 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - iv with Perpetrator (Rifampicin @ 75 mg) - Midazolam - IV - 1 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po Control (Perpetrator Placebo) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 5 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 10 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 25 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Kharasch 2011 - po with Perpetrator (Rifampicin @ 75 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12)",
+      "Path": "ObservedData/Kharasch 2011 - po with Perpetrator (Rifampicin @ 75 mg) - Midazolam - PO - 3 mg - Plasma - agg. (n=12).csv"
+    },
+    {
+      "Id": "Link 2008 - iv Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - iv Control (Perpetrator Placebo) - Midazolam - IV - 2 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 2 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - iv with Perpetrator (Rifampicin) - Midazolam - IV - 2 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - po Control (Perpetrator Placebo) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Link 2008 - po with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8)",
+      "Path": "ObservedData/Link 2008 - po with Perpetrator (Rifampicin) - Midazolam - PO - 7.5 mg - Plasma - agg. (n=8).csv"
+    },
+    {
+      "Id": "Phimmasone 2001 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Phimmasone 2001 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Phimmasone 2001 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=6)",
+      "Path": "ObservedData/Phimmasone 2001 - with Perpetrator (Rifampicin) - Midazolam - IV - 1 mg - Plasma - agg. (n=6).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 0 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 0 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 1 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 1 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 2 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 2 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Reitman 2011 - Week 4 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
+      "Path": "ObservedData/Reitman 2011 - Week 4 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11).csv"
+    },
+    {
+      "Id": "Szalat 2007 - Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=3)",
+      "Path": "ObservedData/Szalat 2007 - Control (Perpetrator Placebo) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=3).csv"
+    },
+    {
+      "Id": "Szalat 2007 - with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg/kg - Plasma - agg. (n=3)",
+      "Path": "ObservedData/Szalat 2007 - with Perpetrator (Rifampicin) - Midazolam - IV - 0.05 mg_kg - Plasma - agg. (n=3).csv"
+    },
+    {
+      "Id": "Kharasch 1997 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - typical (n=9)",
+      "Path": "ObservedData/Kharasch 1997 - Control (Perpetrator Placebo) - Midazolam - IV - 1 mg - Plasma - typical (n=9).csv"
+    },
+    {
+      "Id": "DDI Ratios",
+      "Path": "ObservedData/DDI.csv",
+      "Type": "DDIRatio"
+    }
+  ],
+  "Plots": {
+    "PlotSettings": {
+      "ChartWidth": 500,
+      "ChartHeight": 400,
+      "Fonts": {
+        "AxisSize": 11,
+        "LegendSize": 9,
+        "OriginSize": 9,
+        "FontFamilyName": "Arial",
+        "WatermarkSize": 40
+      }
+    },
+    "AxesSettings": {
+      "ComparisonTimeProfile": [
+        {
+          "Unit": "h",
+          "Dimension": "Time",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "µg/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "DDIRatioPlotsPredictedVsObserved": [
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "DDIRatioPlotsResidualsVsObserved": [
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsPredictedVsObserved": [
+        {
+          "Unit": "µg/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Log"
+        },
+        {
+          "Unit": "µg/ml",
+          "Dimension": "Concentration (mass)",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "GOFMergedPlotsResidualsOverTime": [
+        {
+          "Unit": "h",
+          "Dimension": "Time",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ],
+      "PKRatioPlots": [
+        {
+          "Unit": "year(s)",
+          "Dimension": "Age",
+          "Type": "X",
+          "GridLines": false,
+          "Scaling": "Linear"
+        },
+        {
+          "Unit": "",
+          "Dimension": "Dimensionless",
+          "Type": "Y",
+          "GridLines": false,
+          "Scaling": "Log"
+        }
+      ]
+    },
+    "DDIRatioPlots": [
+      {
+        "SectionId": 5,
+        "Title": "CYP3A4 DDI",
+        "PKParameter": "AUC|CMAX",
+        "PlotType": "predictedVsObserved|residualsVsObserved",
+        "Groups": [
+          {
+            "Caption": "Itra+Mida (Mida iv)",
+            "Color": "#FF0000",
+            "Symbol": "Square",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 378,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1996 (iv, day 4)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+                  "StartTime": 74,
+                  "EndTime": 122,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Itra+Mida (Mida po)",
+            "Color": "#FF0000",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 50,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Ahonen 1995",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Ahonen 1995",
+                  "StartTime": 74,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 58,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
+                  "StartTime": 74,
+                  "EndTime": 170,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 59,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Backman 1998",
+                  "StartTime": 170,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 370,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1994",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1994",
+                  "StartTime": 73,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 377,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+                  "StartTime": 2,
+                  "EndTime": 74,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 379,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Olkkola 1996 (po, day 1 and 6)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Olkkola 1996",
+                  "StartTime": 122,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 424,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Templeton 2010",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (50 mg)",
+                  "StartTime": 4,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 425,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Templeton 2010",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (200 mg)",
+                  "StartTime": 4,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 426,
+                "SimulationControl": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Templeton 2010",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Itraconazole-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Itraconazole/Midazolam - Templeton 2010 (400 mg)",
+                  "StartTime": 4,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifa+Mida (Mida iv)",
+            "Color": "#FF0000",
+            "Symbol": "Square",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 179,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gorski 2003 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (iv)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 276,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 1997",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 1997",
+                  "StartTime": 120,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 280,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2004 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+                  "StartTime": 104,
+                  "EndTime": 128,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 294,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 295,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 296,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 297,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+                  "StartTime": 108,
+                  "EndTime": 132,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 342,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Link 2008 (iv)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (iv)",
+                  "StartTime": 144,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 389,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Phimmasone 2001",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Phimmasone 2001",
+                  "StartTime": 106,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 422,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Szalat 2007",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Szalat 2007",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          },
+          {
+            "Caption": "Rifa+Mida (Mida po)",
+            "Color": "#FF0000",
+            "Symbol": "Circle",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 54,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1996",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1996",
+                  "StartTime": 113,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 56,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+                  "StartTime": 113,
+                  "EndTime": 185,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 57,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Backman 1998",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Backman 1998",
+                  "StartTime": 185,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 113,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Chung 2006",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Chung 2006",
+                  "StartTime": 166,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 129,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Eap 2004 (0.075 mg)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+                  "StartTime": 90,
+                  "EndTime": 114,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 132,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Eap 2004 (7.5 mg)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Eap 2004",
+                  "StartTime": 114,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 177,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gorski 2003 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gorski 2003 (po)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 215,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gurley 2006",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2006",
+                  "StartTime": 146,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 221,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Gurley 2008",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Gurley 2008",
+                  "StartTime": 146,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 286,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2004 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2004",
+                  "StartTime": 128,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 304,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 5 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 305,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 10 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 306,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 25 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 307,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 2011 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Kharasch 2011 (RIF @ 75 mg)",
+                  "StartTime": 132,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 344,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Control - Midazolam - Link 2008 (po)",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Link 2008 (po)",
+                  "StartTime": 144,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 392,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 1320,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 648,
+                  "EndTime": 816,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 393,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 1320,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 816,
+                  "EndTime": 984,
+                  "TimeUnit": "h"
+                }
+              },
+              {
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 394,
+                "SimulationControl": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 1320,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Rifampicin-Midazolam-DDI",
+                  "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
+                  "StartTime": 984,
+                  "EndTime": 1320,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Inputs": [
+    {
+      "SectionId": 11,
+      "Path": "Inputs/Midazolam/Compound/Midazolam.md"
+    },
+    {
+      "SectionId": 16,
+      "Path": "Inputs/Itraconazole/Compound/Itraconazole.md"
+    },
+    {
+      "SectionId": 21,
+      "Path": "Inputs/Rifampicin/Compound/Rifampicin.md"
+    }
+  ],
+  "Sections": [
+    {
+      "Id": 1,
+      "Title": "Introduction",
+      "Content": "Content/Empty.md",
+      "Sections": [
+        {
+          "Id": 2,
+          "Title": "Objective",
+          "Content": "Content/Qualification_DDI_CYP3A4_objective.md",
+          "Sections": []
+        },
+        {
+          "Id": 3,
+          "Title": "CYP3A4 DDI Network",
+          "Content": "Content/Qualification_DDI_CYP3A4_network_description.md",
+          "Sections": []
+        },
+        {
+          "Id": 4,
+          "Title": "Qualification Workflow",
+          "Content": "Content/Qualification_Workflow.md",
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Title": "Qualification of Use Case CYP3A4-mediated DDI",
+      "Content": "Content/Empty.md",
+      "Sections": []
+    },
+    {
+      "Id": 6,
+      "Title": "Appendix",
+      "Content": "Content/Empty.md",
+      "Sections": [
+        {
+          "Id": 7,
+          "Title": "Open Systems Pharmacology Suite (OSPS) Introduction",
+          "Content": "Content/OSPS_Introduction.md",
+          "Sections": []
+        },
+        {
+          "Id": 8,
+          "Title": "Mathematical Implementation of drug-drug interactions",
+          "Content": "Content/Mathematical_Implementation_of_DDI.md",
+          "Sections": []
+        },
+        {
+          "Id": 9,
+          "Title": "Evaluation of victim and perpetrator models",
+          "Content": "Content/Intro_evaluation_victim_and_perpetrator_models.md",
+          "Sections": [
+            {
+              "Id": 10,
+              "Title": "Midazolam Model",
+              "Content": "Content/Intro_Midazolam-model.md",
+              "Sections": [
+                {
+                  "Id": 11,
+                  "Title": "Midazolam input parameters",
+                  "Content": "Content/Intro_Input_parameters.md",
+                  "Sections": []
+                },
+                {
+                  "Id": 12,
+                  "Title": "Midazolam model evaluation",
+                  "Content": "Content/Intro_Model_evaluation.md",
+                  "Sections": [
+                    {
+                      "Id": 13,
+                      "Title": "Midazolam concentration-time profiles",
+                      "Content": "Content/Intro_Model_evaluation_CTprofiles.md",
+                      "Sections": []
+                    },
+                    {
+                      "Id": 14,
+                      "Title": "Midazolam overall goodness of fit",
+                      "Content": "Content/Intro_Model_evaluation_GOF.md",
+                      "Sections": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 15,
+              "Title": "Itraconazole Model",
+              "Content": "Content/Intro_Itraconazole-model.md",
+              "Sections": [
+                {
+                  "Id": 16,
+                  "Title": "Itraconazole input parameters",
+                  "Content": "Content/Intro_Input_parameters.md",
+                  "Sections": []
+                },
+                {
+                  "Id": 17,
+                  "Title": "Itraconazole model evaluation",
+                  "Content": "Content/Intro_Model_evaluation.md",
+                  "Sections": [
+                    {
+                      "Id": 18,
+                      "Title": "Itraconazole concentration-time profiles",
+                      "Content": "Content/Intro_Model_evaluation_CTprofiles.md",
+                      "Sections": []
+                    },
+                    {
+                      "Id": 19,
+                      "Title": "Itraconazole overall goodness of fit",
+                      "Content": "Content/Intro_Model_evaluation_GOF.md",
+                      "Sections": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Id": 20,
+              "Title": "Rifampicin Model",
+              "Content": "Content/Intro_Rifampicin-model.md",
+              "Sections": [
+                {
+                  "Id": 21,
+                  "Title": "Rifampicin input parameters",
+                  "Content": "Content/Intro_Input_parameters.md",
+                  "Sections": []
+                },
+                {
+                  "Id": 22,
+                  "Title": "Rifampicin model evaluation",
+                  "Content": "Content/Intro_Model_evaluation.md",
+                  "Sections": [
+                    {
+                      "Id": 23,
+                      "Title": "Rifampicin concentration-time profiles",
+                      "Content": "Content/Intro_Model_evaluation_CTprofiles.md",
+                      "Sections": []
+                    },
+                    {
+                      "Id": 24,
+                      "Title": "Rifampicin overall goodness of fit",
+                      "Content": "Content/Intro_Model_evaluation_GOF.md",
+                      "Sections": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": 25,
+          "Title": "Evaluation of DDI network (coupled perpetrator / victim simulations)",
+          "Content": "Content/Intro_evaluation_DDI_network.md",
+          "Sections": [
+            {
+              "Id": 26,
+              "Title": "Itraconazole-midazolam DDI",
+              "Content": "Content/Intro_Itraconazole-midazolam_DDI.md",
+              "Sections": []
+            },
+            {
+              "Id": 27,
+              "Title": "Rifampicin-midazolam DDI",
+              "Content": "Content/Intro_Rifampicin-midazolam_DDI.md",
+              "Sections": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Intro": []
+}

@@ -1,12 +1,12 @@
 {
   "Project": "Midazolam",
-  "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
-  "OutputFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input",
-  "ObservedDataFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\ObservedData",
-  "InputsFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\Inputs",
-  "MappingFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\Midazolam\\mapping.json",
-  "TempFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\Midazolam",
-  "ReportConfigurationFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\report-configuration-plan.json",
+  "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
+  "OutputFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2",
+  "ObservedDataFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\ObservedData",
+  "InputsFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\Inputs",
+  "MappingFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\Midazolam\\mapping.json",
+  "TempFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\Midazolam",
+  "ReportConfigurationFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\report-configuration-plan.json",
   "SimulationPlots": [
     {
       "Simulation": "iv 0.001 mg (5 min)",

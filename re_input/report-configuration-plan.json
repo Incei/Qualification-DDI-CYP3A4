@@ -2596,27 +2596,6 @@
               },
               {
                 "Project": "Midazolam",
-                "Simulation": "po 15 mg (tablet) - with high-fat breakfast",
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bornemann 1986 - Midazolam - with a meal - po 15 mg (tablet) - mean (n=18)",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Midazolam",
-                "Simulation": "po 15 mg (tablet) - with 1 h before high-fat breakfast",
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bornemann 1986 - Midazolam - 1 h before a meal - po 15 mg (tablet) - mean (n=18)",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Midazolam",
-                "Simulation": "po 15 mg (tablet) - with 1h after high-fat breakfast",
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Bornemann 1986 - Midazolam - 1 h after a meal - po 15 mg (tablet) - mean (n=18) - [shifted]",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Midazolam",
                 "Simulation": "po 2.5 mg (solution)",
                 "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Okudaira 2007 - EM 0 Control (Perpetrator Placebo) - Midazolam - PO - 2.5 (actually 5) mg - Plasma - agg. (n=12)",
@@ -3043,7 +3022,7 @@
         ]
       },
       {
-        "SectionId": 24,
+        "SectionId": 19,
         "Title": "N-desalkyl-Itraconazole concentration in plasma",
         "PlotType": "predictedVsObserved|residualsOverTime",
         "Groups": [
@@ -4092,7 +4071,6 @@
             "Simulation": "DDI Treatment - Rifampicin/Midazolam - Reitman 2011",
             "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
             "ObservedData": "Reitman 2011 - Week 0 after Perpetrator (Rifampicin) - Midazolam - PO - 2 mg - Plasma - agg. (n=11)",
-            "Name": "Week 0",
             "StartTime": 648,
             "TimeUnit": "h",
             "Color": "#b2182b",
@@ -4944,7 +4922,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "ng/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -9942,24 +9920,24 @@
               "Sections": [
                 {
                   "Id": 11,
-                  "Title": "Input parameters",
+                  "Title": "Midazolam input parameters",
                   "Content": "Content/Intro_Input_parameters.md",
                   "Sections": []
                 },
                 {
                   "Id": 12,
-                  "Title": "Model evaluation",
+                  "Title": "Midazolam model evaluation",
                   "Content": "Content/Intro_Model_evaluation.md",
                   "Sections": [
                     {
                       "Id": 13,
-                      "Title": "Concentration-time profiles",
+                      "Title": "Midazolam concentration-time profiles",
                       "Content": "Content/Intro_Model_evaluation_CTprofiles.md",
                       "Sections": []
                     },
                     {
                       "Id": 14,
-                      "Title": "Overall goodness of fit",
+                      "Title": "Midazolam overall goodness of fit",
                       "Content": "Content/Intro_Model_evaluation_GOF.md",
                       "Sections": []
                     }
@@ -9974,24 +9952,24 @@
               "Sections": [
                 {
                   "Id": 16,
-                  "Title": "Input parameters",
+                  "Title": "Itraconazole input parameters",
                   "Content": "Content/Intro_Input_parameters.md",
                   "Sections": []
                 },
                 {
                   "Id": 17,
-                  "Title": "Model evaluation",
+                  "Title": "Itraconazole model evaluation",
                   "Content": "Content/Intro_Model_evaluation.md",
                   "Sections": [
                     {
                       "Id": 18,
-                      "Title": "Concentration-time profiles",
+                      "Title": "Itraconazole concentration-time profiles",
                       "Content": "Content/Intro_Model_evaluation_CTprofiles.md",
                       "Sections": []
                     },
                     {
                       "Id": 19,
-                      "Title": "Overall goodness of fit",
+                      "Title": "Itraconazole overall goodness of fit",
                       "Content": "Content/Intro_Model_evaluation_GOF.md",
                       "Sections": []
                     }
@@ -10006,24 +9984,24 @@
               "Sections": [
                 {
                   "Id": 21,
-                  "Title": "Input parameters",
+                  "Title": "Rifampicin input parameters",
                   "Content": "Content/Intro_Input_parameters.md",
                   "Sections": []
                 },
                 {
                   "Id": 22,
-                  "Title": "Model evaluation",
+                  "Title": "Rifampicin model evaluation",
                   "Content": "Content/Intro_Model_evaluation.md",
                   "Sections": [
                     {
                       "Id": 23,
-                      "Title": "Concentration-time profiles",
+                      "Title": "Rifampicin concentration-time profiles",
                       "Content": "Content/Intro_Model_evaluation_CTprofiles.md",
                       "Sections": []
                     },
                     {
                       "Id": 24,
-                      "Title": "Overall goodness of fit",
+                      "Title": "Rifampicin overall goodness of fit",
                       "Content": "Content/Intro_Model_evaluation_GOF.md",
                       "Sections": []
                     }

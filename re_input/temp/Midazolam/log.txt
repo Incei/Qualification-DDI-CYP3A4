@@ -1,3 +1,3 @@
 Information: Starting qualification run
-Information: Project 'Midazolam' exported for qualification in 05m:21s:350ms
+Information: Project 'Midazolam' exported for qualification in 06m:17s:509ms
 Information: Qualification run finished

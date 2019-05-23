@@ -1,12 +1,12 @@
 {
   "Project": "Rifampicin",
-  "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Rifampicin-Model.json",
-  "OutputFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input",
-  "ObservedDataFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\ObservedData",
-  "InputsFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\Inputs",
-  "MappingFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\Rifampicin\\mapping.json",
-  "TempFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\Rifampicin",
-  "ReportConfigurationFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\report-configuration-plan.json",
+  "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Rifampicin-Model.json",
+  "OutputFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2",
+  "ObservedDataFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\ObservedData",
+  "InputsFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\Inputs",
+  "MappingFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\Rifampicin\\mapping.json",
+  "TempFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\Rifampicin",
+  "ReportConfigurationFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\report-configuration-plan.json",
   "SimulationPlots": [
     {
       "Simulation": "Rifampicin iv 600 mg (3 h) MD OD (7 days)",
@@ -76,7 +76,7 @@
     {
       "Type": "Individual",
       "Name": "European (P-gp modified, CYP3A4 36 h)",
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json"
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json"
     }
   ]
 }

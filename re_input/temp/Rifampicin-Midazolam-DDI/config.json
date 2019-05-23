@@ -1,39 +1,39 @@
 {
   "Project": "Rifampicin-Midazolam-DDI",
-  "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Rifampicin-Midazolam-DDI.json",
-  "OutputFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input",
-  "ObservedDataFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\ObservedData",
-  "InputsFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\Inputs",
-  "MappingFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\Rifampicin-Midazolam-DDI\\mapping.json",
-  "TempFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\Rifampicin-Midazolam-DDI",
-  "ReportConfigurationFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\report-configuration-plan.json",
+  "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Rifampicin-Midazolam-DDI.json",
+  "OutputFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2",
+  "ObservedDataFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\ObservedData",
+  "InputsFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\Inputs",
+  "MappingFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\Rifampicin-Midazolam-DDI\\mapping.json",
+  "TempFolder": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\Rifampicin-Midazolam-DDI",
+  "ReportConfigurationFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\report-configuration-plan.json",
   "SimulationPlots": [],
   "Inputs": [],
   "BuildingBlocks": [
     {
       "Type": "Individual",
       "Name": "European (P-gp modified, CYP3A4 36 h)",
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json"
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json"
     },
     {
       "Type": "Compound",
       "Name": "Midazolam",
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json"
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json"
     },
     {
       "Type": "Compound",
       "Name": "Rifampicin",
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Rifampicin-Model.json"
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Rifampicin-Model.json"
     },
     {
       "Type": "Formulation",
       "Name": "Tablet (Dormicum)",
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json"
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json"
     }
   ],
   "SimulationParameters": [
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (interstitial->intracellular)",
       "TargetSimulations": [
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -537,7 +537,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -579,7 +579,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -705,7 +705,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -747,7 +747,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
@@ -915,7 +915,7 @@
       ]
     },
     {
-      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input\\temp\\_project\\Midazolam-Model.json",
+      "SnapshotFile": "D:\\Qualification\\sfrechen\\Qualification-DDI-CYP3A4\\re_input2\\temp\\_project\\Midazolam-Model.json",
       "Simulation": "po 3 mg (solution)",
       "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (intracellular->interstitial)",
       "TargetSimulations": [
