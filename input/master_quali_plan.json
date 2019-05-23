@@ -4749,6 +4749,30 @@
       "Name": "Midazolam",
       "Type": "Compound",
       "SectionId": 1
+    },
+    {
+      "Project": "Itraconazole",
+      "Name": "Midazolam",
+      "Type": "Compound",
+      "SectionId": 1
+    },
+    {
+      "Project": "Itraconazole",
+      "Name": "Capsule fasted",
+      "Type": "Formulation",
+      "SectionId": 1
+    },
+    {
+      "Project": "Itraconazole",
+      "Name": "Capsule fed",
+      "Type": "Formulation",
+      "SectionId": 1
+    },
+    {
+      "Project": "Rifampicin",
+      "Name": "Rifampicin",
+      "Type": "Compound",
+      "SectionId": 1
     }
   ],
   "Sections": [
