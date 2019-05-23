@@ -2911,23 +2911,9 @@
               },
               {
                 "Project": "Rifampicin",
-                "Simulation": "Rifampicin po 300 mg",
-                "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Nitti 1977 - 300 mg - Rifampicin - IV - 300 mg - Urine - agg. (n=2)",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Rifampicin",
                 "Simulation": "Rifampicin po 450 mg",
                 "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Nitti 1977 - 450 mg - Rifampicin - IV - 450 mg - Serum - agg. (n=3)",
-                "Color": "#FF0000"
-              },
-              {
-                "Project": "Rifampicin",
-                "Simulation": "Rifampicin po 450 mg",
-                "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Nitti 1977 - 450 mg - Rifampicin - IV - 450 mg - Urine - agg. (n=3)",
                 "Color": "#FF0000"
               },
               {
