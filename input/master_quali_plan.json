@@ -4539,7 +4539,7 @@
                 "ObservedDataRecordId": 286,
                 "SimulationControl": {
                   "Project": "Rifampicin-Midazolam-DDI",
-                  "Simulation": "DDI Control - Midazolam - Kharasch 1997 (po)",
+                  "Simulation": "DDI Control - Midazolam - Kharasch 1997",
                   "StartTime": 0,
                   "EndTime": 9999,
                   "TimeUnit": "h"
