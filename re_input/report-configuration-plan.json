@@ -3193,7 +3193,7 @@
                 "Project": "Rifampicin",
                 "Simulation": "Rifampicin po 450 mg",
                 "Output": "Organism|PeripheralVenousBlood|Rifampicin|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "BFuresz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13)",
+                "ObservedData": "Furesz 1970 - 450 mg - Rifampicin - PO - 450 mg - Serum - agg. (n=13)",
                 "Color": "#FF0000"
               },
               {
