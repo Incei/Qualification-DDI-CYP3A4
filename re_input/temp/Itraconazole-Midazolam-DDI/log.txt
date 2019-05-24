@@ -1,3 +1,0 @@
-Information: Starting qualification run
-Information: Project 'Itraconazole-Midazolam-DDI' exported for qualification in 06m:21s:738ms
-Information: Qualification run finished

@@ -1,3 +1,0 @@
-Information: Starting qualification run
-Information: Project 'Rifampicin' exported for qualification in 02m:41s:283ms
-Information: Qualification run finished
