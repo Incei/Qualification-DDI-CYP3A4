@@ -4360,7 +4360,7 @@
             "Symbol": "Circle",
             "DDIRatios": [
               {
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 54,
                 "SimulationControl": {
@@ -4379,7 +4379,7 @@
                 }
               },
               {
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 56,
                 "SimulationControl": {
@@ -4398,7 +4398,7 @@
                 }
               },
               {
-                "Output": "Organism|PeripheralVenousBlood|Midazolam|Whole Blood (Peripheral Venous Blood)",
+                "Output": "Organism|PeripheralVenousBlood|Midazolam|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "DDI Ratios",
                 "ObservedDataRecordId": 57,
                 "SimulationControl": {
