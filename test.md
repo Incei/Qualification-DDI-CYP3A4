@@ -139,5 +139,5 @@ dfdf
 
 ### References
 
-[Ince 2018] [www.open-systems-pharmacology.org](http://www.open-systems-pharmacology.org)
+Ince et al. 2018 my first obok model.
 
